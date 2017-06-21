@@ -1,0 +1,2692 @@
+<?xml version="1.0" standalone="yes"?>
+<UCTDataSet xmlns="http://serliosoft.com/UCTData.xsd">
+  <VersionInfo>
+    <Version>5.0</Version>
+    <SavedWith>12.0.6339</SavedWith>
+    <CreatedWith>12.0.6339</CreatedWith>
+  </VersionInfo>
+  <Project>
+    <TrackChanges>false</TrackChanges>
+  </Project>
+  <TopLevelElement>
+    <RefID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</RefID>
+  </TopLevelElement>
+  <Package>
+    <UniqueID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</UniqueID>
+    <Name>SmartShoppingBag</Name>
+  </Package>
+  <Package>
+    <UniqueID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</UniqueID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>MobileApp</Name>
+    <Sequence>0</Sequence>
+  </Package>
+  <Package>
+    <UniqueID>P-c81eaaac-b66b-4129-8064-aa8f621f3546</UniqueID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>ShoppingBag</Name>
+    <Sequence>1</Sequence>
+  </Package>
+  <Package>
+    <UniqueID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</UniqueID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>System</Name>
+    <Sequence>2</Sequence>
+  </Package>
+  <UseCase>
+    <UniqueID>UC-453c76d8-a643-4187-becd-8f0636672bef</UniqueID>
+    <UserID>UC-1</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>разплащане при напуснане на територията на магазина</Name>
+    <Sequence>4</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:35:58.5955171+03:00</DateAdded>
+    <DateModified>2017-05-18T21:46:53.0663744+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-b424c256-759c-445b-baed-43cba6c3186d</UniqueID>
+    <UserID>UC-2</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>преглед на повече инфо. за артикул</Name>
+    <Sequence>5</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:38:02.6892221+03:00</DateAdded>
+    <DateModified>2017-05-18T21:49:42.6402604+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-2377f75b-4275-4246-8aab-24cdd75a51c3</UniqueID>
+    <UserID>UC-3</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>разглеждане на база данни с артикули</Name>
+    <Sequence>2</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:38:54.4575617+03:00</DateAdded>
+    <DateModified>2017-05-18T22:02:41.7162214+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-dbb154e4-f5ab-43de-bf53-80f5981552ec</UniqueID>
+    <UserID>UC-4</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>следене за нередности в магазина</Name>
+    <Sequence>0</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:39:42.2111642+03:00</DateAdded>
+    <DateModified>2017-05-18T20:52:39.4999158+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-b669781b-dc24-4260-b8ac-60c8e36ebbfe</UniqueID>
+    <UserID>UC-5</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>активиране на витруална сметка</Name>
+    <Sequence>3</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:40:06.0731673+03:00</DateAdded>
+    <DateModified>2017-05-18T21:56:38.2501823+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-896bb22c-cfd3-44dd-9538-fbc49a6789b7</UniqueID>
+    <UserID>UC-6</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>редактиране на артикул</Name>
+    <Sequence>1</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:40:39.5053552+03:00</DateAdded>
+    <DateModified>2017-05-18T22:02:52.811796+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-57b4d437-cca9-432c-9d54-1f9318144bb2</UniqueID>
+    <UserID>UC-7</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>чекиране</Name>
+    <Sequence>2</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:46:41.2209756+03:00</DateAdded>
+    <DateModified>2017-05-18T22:22:07.0910411+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</UniqueID>
+    <UserID>UC-8</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>отчекиране</Name>
+    <Sequence>1</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:46:49.0047325+03:00</DateAdded>
+    <DateModified>2017-05-18T21:59:19.1738026+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-3f00aece-1a61-493d-b8ae-dda32550e55b</UniqueID>
+    <UserID>UC-9</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>преглед на междинна сметка</Name>
+    <Sequence>0</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T17:46:59.2789704+03:00</DateAdded>
+    <DateModified>2017-05-18T21:48:19.5449757+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-3183a474-20da-4532-99bc-d065f47501ab</UniqueID>
+    <UserID>UC-13</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>добавяне на продукт</Name>
+    <Sequence>0</Sequence>
+    <Priority>1</Priority>
+    <PreConditions />
+    <PostConditions />
+    <Level />
+    <Complexity />
+    <UCStatus />
+    <ImplStatus />
+    <AssignedTo />
+    <Release />
+    <TestingSetup />
+    <TestingConfigurations />
+    <DateAdded>2017-05-18T18:06:51.3013249+03:00</DateAdded>
+    <DateModified>2017-05-18T21:10:34.4148334+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-8c5c1a75-61fd-4856-91ce-f842378a1473</UniqueID>
+    <UserID>UC-14</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Влизане в акаунт от мобилното приложение</Name>
+    <Sequence>6</Sequence>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T21:22:19.8388644+03:00</DateAdded>
+    <DateModified>2017-05-18T21:23:32.8919363+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-694747f5-e2e7-4bf6-a578-e19ec953ee29</UniqueID>
+    <UserID>UC-17</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Генериране на QR код</Name>
+    <Sequence>7</Sequence>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T21:36:15.474425+03:00</DateAdded>
+    <DateModified>2017-05-18T21:39:29.1412069+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-17b9b1ec-22aa-4741-88c7-06bf0ae8f517</UniqueID>
+    <UserID>UC-19</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>сканиране на продукт</Name>
+    <Sequence>8</Sequence>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T21:50:26.7526103+03:00</DateAdded>
+    <DateModified>2017-05-18T21:53:05.2451107+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-c0318676-b814-4662-8bb7-02b31ce7d93e</UniqueID>
+    <UserID>UC-20</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>търсене на продукт</Name>
+    <Sequence>9</Sequence>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T21:51:43.5631791+03:00</DateAdded>
+    <DateModified>2017-05-18T21:53:00.2648583+03:00</DateModified>
+  </UseCase>
+  <UseCase>
+    <UniqueID>UC-0e797458-ea47-4ec5-8077-ee47f3fa53e2</UniqueID>
+    <UserID>UC-21</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>New Use Case</Name>
+    <Sequence>10</Sequence>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T21:55:07.3161957+03:00</DateAdded>
+    <DateModified>2017-05-18T21:55:07.3161957+03:00</DateModified>
+  </UseCase>
+  <Actor>
+    <UniqueID>A-074f3e40-32bc-4a55-a6d1-b43803a5270f</UniqueID>
+    <UserID>A-1</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>customer</Name>
+    <Sequence>0</Sequence>
+    <DateAdded>2017-05-18T17:22:59.6353135+03:00</DateAdded>
+    <DateModified>2017-05-18T21:19:15.579857+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-ed4bb9d1-f276-435a-a0d4-f44b7aaae52c</UniqueID>
+    <UserID>A-2</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>admin</Name>
+    <Sequence>0</Sequence>
+    <DateAdded>2017-05-18T17:23:06.8351409+03:00</DateAdded>
+    <DateModified>2017-05-18T22:00:36.4894858+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-bfc5bad6-27fa-46df-817d-78edc240b2fb</UniqueID>
+    <UserID>A-3</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>support</Name>
+    <Sequence>0</Sequence>
+    <DateAdded>2017-05-18T17:23:47.4763965+03:00</DateAdded>
+    <DateModified>2017-05-18T17:23:51.1251675+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-900f3753-d2c0-4ec7-aafc-1d0b7c7587d1</UniqueID>
+    <UserID>A-4</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>security</Name>
+    <Sequence>1</Sequence>
+    <DateAdded>2017-05-18T17:23:55.6468982+03:00</DateAdded>
+    <DateModified>2017-05-18T17:24:05.0886195+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-374d3b04-ac0c-4a23-b2b6-bf2dfc289be0</UniqueID>
+    <UserID>A-6</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>system</Name>
+    <Sequence>2</Sequence>
+    <DateAdded>2017-05-18T21:38:13.019287+03:00</DateAdded>
+    <DateModified>2017-05-18T22:03:35.5117735+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-b233399a-2fb4-490b-aa63-3677a00b0de3</UniqueID>
+    <UserID>A-7</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>bank</Name>
+    <Sequence>3</Sequence>
+    <DateAdded>2017-05-18T21:55:14.8062749+03:00</DateAdded>
+    <DateModified>2017-05-18T22:03:38.365094+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-12d05d2a-8dd1-4a7d-91fb-5ae72fcf480c</UniqueID>
+    <UserID>A-8</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Virtual currency</Name>
+    <Sequence>4</Sequence>
+    <DateAdded>2017-05-18T21:55:50.6483956+03:00</DateAdded>
+    <DateModified>2017-05-18T22:03:40.7319853+03:00</DateModified>
+  </Actor>
+  <Actor>
+    <UniqueID>A-9c03fa8a-b280-4bc8-8f0e-1554118346cf</UniqueID>
+    <UserID>A-9</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>DB</Name>
+    <Sequence>1</Sequence>
+    <DateAdded>2017-05-18T22:03:54.0849216+03:00</DateAdded>
+    <DateModified>2017-05-18T22:03:58.0949771+03:00</DateModified>
+  </Actor>
+  <Diagram>
+    <UniqueID>D-44159ef5-9fe5-4140-a63d-ae8d3bfcd63d</UniqueID>
+    <ParentID>UC-b669781b-dc24-4260-b8ac-60c8e36ebbfe</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>активиранеНаВитруалнаСметкаActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-a9bd4e4e-d471-46df-ba45-ea90909e7f85</UniqueID>
+    <ParentID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>отчекиранеActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-b64050ef-84fd-4e52-aaa5-b1dd3c0cf0bc</UniqueID>
+    <ParentID>UC-b424c256-759c-445b-baed-43cba6c3186d</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>прегледНаПовечеИнфо.ЗаАртикулActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-dbe13bdd-f0d4-407c-8b98-fbadcc0f418f</UniqueID>
+    <ParentID>UC-896bb22c-cfd3-44dd-9538-fbc49a6789b7</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>редактиранеНаАртикулActivityDiagram.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-5ebd6308-2c1f-44da-9ac3-f2ca9e6a212c</UniqueID>
+    <ParentID>UC-3183a474-20da-4532-99bc-d065f47501ab</ParentID>
+    <Name>ActivityDiagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>добавянеНаПродуктActivityDiagram (1).ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-5822f5d4-580a-4b3a-8066-75d7b53e9f95</UniqueID>
+    <ParentID>A-074f3e40-32bc-4a55-a6d1-b43803a5270f</ParentID>
+    <Name>UseCaseCustomer</Name>
+    <Sequence>0</Sequence>
+    <FileName>UseCaseCustomer.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-e2b45a0f-3c3e-4de8-b4b5-e1cef7737877</UniqueID>
+    <ParentID>A-ed4bb9d1-f276-435a-a0d4-f44b7aaae52c</ParentID>
+    <Name>admin_use-case_diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>admin_use-case_diagram.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-af23768d-d2b0-415c-a5fd-66580f53e7f6</UniqueID>
+    <ParentID>UC-57b4d437-cca9-432c-9d54-1f9318144bb2</ParentID>
+    <Name>Activity Diagram</Name>
+    <Sequence>0</Sequence>
+    <FileName>чекиранеActivityDiagram - Copy.ndx</FileName>
+    <Type>1</Type>
+  </Diagram>
+  <Diagram>
+    <UniqueID>D-865e1b43-d001-4a6c-878f-b8420a7dce3a</UniqueID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>DataFlow</Name>
+    <Sequence>0</Sequence>
+    <FileName>DataFlow.ndx</FileName>
+    <Type>0</Type>
+  </Diagram>
+  <UCActor>
+    <ParentID>UC-2377f75b-4275-4246-8aab-24cdd75a51c3</ParentID>
+    <ActorID>A-ed4bb9d1-f276-435a-a0d4-f44b7aaae52c</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-dbb154e4-f5ab-43de-bf53-80f5981552ec</ParentID>
+    <ActorID>A-900f3753-d2c0-4ec7-aafc-1d0b7c7587d1</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-896bb22c-cfd3-44dd-9538-fbc49a6789b7</ParentID>
+    <ActorID>A-ed4bb9d1-f276-435a-a0d4-f44b7aaae52c</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-3183a474-20da-4532-99bc-d065f47501ab</ParentID>
+    <ActorID>A-ed4bb9d1-f276-435a-a0d4-f44b7aaae52c</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-694747f5-e2e7-4bf6-a578-e19ec953ee29</ParentID>
+    <ActorID>A-374d3b04-ac0c-4a23-b2b6-bf2dfc289be0</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-57b4d437-cca9-432c-9d54-1f9318144bb2</ParentID>
+    <ActorID>A-074f3e40-32bc-4a55-a6d1-b43803a5270f</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-453c76d8-a643-4187-becd-8f0636672bef</ParentID>
+    <ActorID>A-074f3e40-32bc-4a55-a6d1-b43803a5270f</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-c0318676-b814-4662-8bb7-02b31ce7d93e</ParentID>
+    <ActorID>A-374d3b04-ac0c-4a23-b2b6-bf2dfc289be0</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-17b9b1ec-22aa-4741-88c7-06bf0ae8f517</ParentID>
+    <ActorID>A-374d3b04-ac0c-4a23-b2b6-bf2dfc289be0</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-b669781b-dc24-4260-b8ac-60c8e36ebbfe</ParentID>
+    <ActorID>A-b233399a-2fb4-490b-aa63-3677a00b0de3</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-b669781b-dc24-4260-b8ac-60c8e36ebbfe</ParentID>
+    <ActorID>A-12d05d2a-8dd1-4a7d-91fb-5ae72fcf480c</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</ParentID>
+    <ActorID>A-074f3e40-32bc-4a55-a6d1-b43803a5270f</ActorID>
+    <Kind>0</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</ParentID>
+    <ActorID>A-12d05d2a-8dd1-4a7d-91fb-5ae72fcf480c</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</ParentID>
+    <ActorID>A-b233399a-2fb4-490b-aa63-3677a00b0de3</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-2377f75b-4275-4246-8aab-24cdd75a51c3</ParentID>
+    <ActorID>A-374d3b04-ac0c-4a23-b2b6-bf2dfc289be0</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCActor>
+    <ParentID>UC-896bb22c-cfd3-44dd-9538-fbc49a6789b7</ParentID>
+    <ActorID>A-374d3b04-ac0c-4a23-b2b6-bf2dfc289be0</ActorID>
+    <Kind>1</Kind>
+  </UCActor>
+  <UCReq>
+    <ParentID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</ParentID>
+    <ReqID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ReqID>
+  </UCReq>
+  <Scenario>
+    <UniqueID>MSS-cd8573d3-239f-4e8b-b4d8-94cff4e54c20</UniqueID>
+    <ParentID>UC-453c76d8-a643-4187-becd-8f0636672bef</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-18061609-b1c5-40dd-9cc0-9f1c0a389c9a</UniqueID>
+    <ParentID>UC-b669781b-dc24-4260-b8ac-60c8e36ebbfe</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-aac08766-44d7-497a-b673-55187964cada</UniqueID>
+    <ParentID>UC-c67bc0c5-837f-48b6-bbac-2aae6eaf35ce</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-82e151f3-e2cc-472b-aa8e-3525c11c5500</UniqueID>
+    <ParentID>UC-b424c256-759c-445b-baed-43cba6c3186d</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-875c6084-dbde-4cdb-8e7d-385d4059374e</UniqueID>
+    <ParentID>UC-57b4d437-cca9-432c-9d54-1f9318144bb2</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-e4ef4e88-9078-4af7-982b-3b5241b6fbee</UniqueID>
+    <ParentID>UC-dbb154e4-f5ab-43de-bf53-80f5981552ec</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-ec75e9ff-450f-4ee4-85eb-3ded7c9a4e4e</UniqueID>
+    <ParentID>UC-3183a474-20da-4532-99bc-d065f47501ab</ParentID>
+  </Scenario>
+  <Scenario>
+    <UniqueID>MSS-ea62262a-8470-4eea-9764-5ff9d102b01c</UniqueID>
+    <ParentID>UC-896bb22c-cfd3-44dd-9538-fbc49a6789b7</ParentID>
+  </Scenario>
+  <Requirement>
+    <UniqueID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</UniqueID>
+    <UserID>REQ-1</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Създаване на акаунт</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:21:41.2781323+03:00</DateAdded>
+    <DateModified>2017-05-18T17:20:51.6977973+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-74073521-16cc-4176-9ce4-556869f69d81</UniqueID>
+    <UserID>REQ-2</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за свързване банкова сметка с виртуална такава</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo>req-1</AssignedTo>
+    <Release />
+    <DateAdded>2017-05-18T15:23:54.7436669+03:00</DateAdded>
+    <DateModified>2017-05-18T17:20:55.041701+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</UniqueID>
+    <UserID>REQ-33</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за чекиране чрез smartphone</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:24:42.2211301+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:05.5115749+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</UniqueID>
+    <UserID>REQ-4</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за получаване на данни от датчици</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:24:49.8677981+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:10.4641602+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</UniqueID>
+    <UserID>REQ-5</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за калкулиране на междинна сметка в магазина</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:24:58.7492245+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:13.8463945+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</UniqueID>
+    <UserID>REQ-6</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за преглед на информация на определен продукт</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:25:06.2608084+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:17.5827389+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</UniqueID>
+    <UserID>REQ-7</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за разплащане</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:25:13.864365+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:20.1571227+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-5920feee-9c26-4cb1-8de2-31483272a2a9</UniqueID>
+    <UserID>REQ-8</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за отчекиране</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>7</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:25:25.1152845+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:23.9836504+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</UniqueID>
+    <UserID>REQ-9</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за автоматично прекалкулиране на количеството в кошницата при</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>8</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:25:33.5359461+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:27.0396457+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</UniqueID>
+    <UserID>REQ-10</UserID>
+    <ParentID>P-777b5aed-cd59-41f6-b8a0-70c409db9844</ParentID>
+    <Name>Възможност за показване къде се намира даден артикул</Name>
+    <Description>Мобилно приложение:</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cc\'ee\'e1\'e8\'eb\'ed\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5:\par
+}
+</RichDescription>
+    <Sequence>9</Sequence>
+    <Type>Functional</Type>
+    <Priority>4</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:25:39.6252114+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:29.6129421+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</UniqueID>
+    <UserID>REQ-11</UserID>
+    <ParentID>P-c81eaaac-b66b-4129-8064-aa8f621f3546</ParentID>
+    <Name>Разпознават продуктите в нея, чрез датчици</Name>
+    <Description>Кошница</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'ca\'ee\'f8\'ed\'e8\'f6\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:32:34.1572925+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:33.2115047+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</UniqueID>
+    <UserID>REQ-12</UserID>
+    <ParentID>P-c81eaaac-b66b-4129-8064-aa8f621f3546</ParentID>
+    <Name>Измерване на артикули ( например плодове, зеленчуци), чрез датчици</Name>
+    <Description>Кошница</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'ca\'ee\'f8\'ed\'e8\'f6\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:32:58.9447793+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:36.5731202+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</UniqueID>
+    <UserID>REQ-13</UserID>
+    <ParentID>P-c81eaaac-b66b-4129-8064-aa8f621f3546</ParentID>
+    <Name>Възможност за изпращане на данни, получени от датчиците към системата</Name>
+    <Description>Кошница</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20\'ca\'ee\'f8\'ed\'e8\'f6\'e0\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:33:10.82877+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:41.0407265+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</UniqueID>
+    <UserID>REQ-14</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Наличност на база данни с артикули</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <DateAdded>2017-05-18T15:34:37.5006025+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:46.2737817+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</UniqueID>
+    <UserID>REQ-15</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Синхронизация с финансов софтуер</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <Type>Functional</Type>
+    <Priority>3</Priority>
+    <DateAdded>2017-05-18T15:34:51.2225926+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:51.4787473+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</UniqueID>
+    <UserID>REQ-16</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Преглед на всички налични стоки</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <DateAdded>2017-05-18T15:34:59.5499005+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:54.162358+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</UniqueID>
+    <UserID>REQ-17</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Ръчна редакция на налична стока</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T15:35:06.9126409+03:00</DateAdded>
+    <DateModified>2017-05-18T17:21:59.2009114+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</UniqueID>
+    <UserID>REQ-18</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Автоматична редакция на стока ( например при закупуване, да се променя</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <Type>Functional</Type>
+    <Priority>4</Priority>
+    <DateAdded>2017-05-18T15:35:14.8556371+03:00</DateAdded>
+    <DateModified>2017-05-18T17:22:01.5159568+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</UniqueID>
+    <UserID>REQ-19</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Следене на наличности</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>5</Sequence>
+    <Type>Functional</Type>
+    <Priority>2</Priority>
+    <DateAdded>2017-05-18T15:35:21.354022+03:00</DateAdded>
+    <DateModified>2017-05-18T17:22:03.4782229+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</UniqueID>
+    <UserID>REQ-20</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Синхронизация с охранителен софтуер</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>6</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T15:35:27.8824386+03:00</DateAdded>
+    <DateModified>2017-05-18T17:22:05.9728863+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-16aacb0c-c6f3-4ce8-9295-4a4c4f6141ba</UniqueID>
+    <UserID>REQ-21</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Наличност на компютърно зрение и изкуствен интелект с цел охрана</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>7</Sequence>
+    <Type>Functional</Type>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T15:35:34.9072213+03:00</DateAdded>
+    <DateModified>2017-05-18T17:22:08.2796872+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-139b6779-ac3d-42c0-8214-f910adb93bcf</UniqueID>
+    <UserID>REQ-22</UserID>
+    <ParentID>P-24873cb0-5225-4118-879d-b4a17c1edaa4</ParentID>
+    <Name>Форум за обратна връзка</Name>
+    <Description>Система за бизнес услугите</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'e1\'e8\'e7\'ed\'e5\'f1 \'f3\'f1\'eb\'f3\'e3\'e8\'f2\'e5\par
+}
+</RichDescription>
+    <Sequence>8</Sequence>
+    <Type>Functional</Type>
+    <Priority>4</Priority>
+    <DateAdded>2017-05-18T15:35:42.1070569+03:00</DateAdded>
+    <DateModified>2017-05-18T17:22:10.3281477+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</UniqueID>
+    <UserID>REQ-23</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Наличност – системата да бъде налична през цялото денонощие</Name>
+    <Sequence>0</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <DateAdded>2017-05-18T15:37:35.8181254+03:00</DateAdded>
+    <DateModified>2017-05-18T15:37:37.8291641+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-45b304d7-e271-4342-9693-bd3fa97d1491</UniqueID>
+    <UserID>REQ-24</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Надеждност: Да издържа на сривове ( например токов удар).</Name>
+    <Sequence>1</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T15:38:34.4484199+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</UniqueID>
+    <UserID>REQ-25</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Надеждност: Да се правят backups ежедневно. </Name>
+    <Sequence>6</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T15:59:55.7132789+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</UniqueID>
+    <UserID>REQ-26</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Надеждност: Да се поддържа консистентна информация на няколко носителя</Name>
+    <Sequence>7</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T15:39:40.0351951+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</UniqueID>
+    <UserID>REQ-27</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Надеждност: Да не се нуждае от периодичен рестарт</Name>
+    <Sequence>5</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T16:00:34.3864641+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</UniqueID>
+    <UserID>REQ-28</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Сигурност – данните в системата да са защитени от неоторизиран достъп и да се</Name>
+    <Sequence>4</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T15:40:02.0027406+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-f4168ecd-4823-4acc-ac1f-7ec31e8c3d60</UniqueID>
+    <UserID>REQ-29</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Защита на личните данни - криптиране </Name>
+    <Sequence>3</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>1</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T15:40:12.5950261+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</UniqueID>
+    <UserID>REQ-30</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Синхронизация между отделните компоненти на системата в рамките на 0.5сек</Name>
+    <Sequence>2</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <Source />
+    <Status />
+    <AssignedTo />
+    <Release />
+    <DateAdded>2017-05-18T15:37:43.3077977+03:00</DateAdded>
+    <DateModified>2017-05-18T16:00:54.5866928+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</UniqueID>
+    <UserID>REQ-31</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Използваемост – да има лесен и удобен интерфейс</Name>
+    <Sequence>8</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>3</Priority>
+    <DateAdded>2017-05-18T15:40:29.0525585+03:00</DateAdded>
+    <DateModified>2017-05-18T16:01:02.0074981+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Requirement>
+    <UniqueID>REQ-d3195ea7-97ed-4cdf-8944-8f6d9f16d480</UniqueID>
+    <UserID>REQ-32</UserID>
+    <ParentID>P-e6cae703-7a5e-44a1-9ce0-d97d9998a12f</ParentID>
+    <Name>Издръжливост на натоварване – в пиковите часове, системата да издържа на натоварване 20души/минута</Name>
+    <Sequence>9</Sequence>
+    <Type>Non-functional</Type>
+    <Priority>2</Priority>
+    <DateAdded>2017-05-18T15:40:37.8451594+03:00</DateAdded>
+    <DateModified>2017-05-18T16:01:41.2381343+03:00</DateModified>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Requirement>
+  <Step>
+    <UniqueID>ST-6ca3ffb8-ff0f-436f-bc6a-981d8a254326</UniqueID>
+    <ParentID>MSS-cd8573d3-239f-4e8b-b4d8-94cff4e54c20</ParentID>
+    <Description>калкулиране на междинна сметка</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ea\'e0\'eb\'ea\'f3\'eb\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'ec\'e5\'e6\'e4\'e8\'ed\'ed\'e0 \'f1\'ec\'e5\'f2\'ea\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-dd8142d7-49de-4da9-8647-6c9b2f457102</UniqueID>
+    <ParentID>MSS-cd8573d3-239f-4e8b-b4d8-94cff4e54c20</ParentID>
+    <Description>отчекиране чрез баркод</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ee\'f2\'f7\'e5\'ea\'e8\'f0\'e0\'ed\'e5 \'f7\'f0\'e5\'e7 \'e1\'e0\'f0\'ea\'ee\'e4\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-d996d728-4476-4990-8681-193b37bdba25</UniqueID>
+    <ParentID>MSS-cd8573d3-239f-4e8b-b4d8-94cff4e54c20</ParentID>
+    <Description>изпращане на заявка до банковата сметка за изтегляне на пари</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'e8\'e7\'ef\'f0\'e0\'f9\'e0\'ed\'e5 \'ed\'e0 \'e7\'e0\'ff\'e2\'ea\'e0 \'e4\'ee \'e1\'e0\'ed\'ea\'ee\'e2\'e0\'f2\'e0 \'f1\'ec\'e5\'f2\'ea\'e0 \'e7\'e0 \'e8\'e7\'f2\'e5\'e3\'eb\'ff\'ed\'e5 \'ed\'e0 \'ef\'e0\'f0\'e8\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-530f607a-63e6-4346-90b8-f1479a1ce373</UniqueID>
+    <ParentID>MSS-cd8573d3-239f-4e8b-b4d8-94cff4e54c20</ParentID>
+    <Description>проверка за наличност на достатъчно пари</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ef\'f0\'ee\'e2\'e5\'f0\'ea\'e0 \'e7\'e0 \'ed\'e0\'eb\'e8\'f7\'ed\'ee\'f1\'f2 \'ed\'e0 \'e4\'ee\'f1\'f2\'e0\'f2\'fa\'f7\'ed\'ee \'ef\'e0\'f0\'e8\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-33501fe2-6299-45c5-b63e-cc5a04d7291e</UniqueID>
+    <ParentID>MSS-cd8573d3-239f-4e8b-b4d8-94cff4e54c20</ParentID>
+    <Description>изтегляне на нужната сума пари</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'e8\'e7\'f2\'e5\'e3\'eb\'ff\'ed\'e5 \'ed\'e0 \'ed\'f3\'e6\'ed\'e0\'f2\'e0 \'f1\'f3\'ec\'e0 \'ef\'e0\'f0\'e8\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-48907b26-3a37-4a60-bdb5-93c7e07d8392</UniqueID>
+    <ParentID>MSS-18061609-b1c5-40dd-9cc0-9f1c0a389c9a</ParentID>
+    <Description>Влизане в акаунт</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c2\'eb\'e8\'e7\'e0\'ed\'e5 \'e2 \'e0\'ea\'e0\'f3\'ed\'f2\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-960572c8-6580-4ce8-9af7-2f3cbec712dc</UniqueID>
+    <ParentID>MSS-18061609-b1c5-40dd-9cc0-9f1c0a389c9a</ParentID>
+    <Description>Подаване на заявка за използване на виртуална сметка</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cf\'ee\'e4\'e0\'e2\'e0\'ed\'e5 \'ed\'e0 \'e7\'e0\'ff\'e2\'ea\'e0 \'e7\'e0 \'e8\'e7\'ef\'ee\'eb\'e7\'e2\'e0\'ed\'e5 \'ed\'e0 \'e2\'e8\'f0\'f2\'f3\'e0\'eb\'ed\'e0 \'f1\'ec\'e5\'f2\'ea\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-25a10a87-f7dd-4125-9230-81b473f33630</UniqueID>
+    <ParentID>MSS-18061609-b1c5-40dd-9cc0-9f1c0a389c9a</ParentID>
+    <Description>Връща се отговор до потребителя</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c2\'f0\'fa\'f9\'e0 \'f1\'e5 \'ee\'f2\'e3\'ee\'e2\'ee\'f0 \'e4\'ee \'ef\'ee\'f2\'f0\'e5\'e1\'e8\'f2\'e5\'eb\'ff\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-c966d3e4-e079-4075-b3b0-fd0d0f3aa23d</UniqueID>
+    <ParentID>MSS-18061609-b1c5-40dd-9cc0-9f1c0a389c9a</ParentID>
+    <Description>Зарежда се нов порзорец със съответното съобщение</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c7\'e0\'f0\'e5\'e6\'e4\'e0 \'f1\'e5 \'ed\'ee\'e2 \'ef\'ee\'f0\'e7\'ee\'f0\'e5\'f6 \'f1\'fa\'f1 \'f1\'fa\'ee\'f2\'e2\'e5\'f2\'ed\'ee\'f2\'ee \'f1\'fa\'ee\'e1\'f9\'e5\'ed\'e8\'e5\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-69c6e7d8-08ae-45a1-b484-9bd78960b94b</UniqueID>
+    <ParentID>X-ab7dda8f-299e-4eb4-9a3e-ea81c3079949</ParentID>
+    <Description>Зарежда се екран с функционалности на приложението</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c7\'e0\'f0\'e5\'e6\'e4\'e0 \'f1\'e5 \'e5\'ea\'f0\'e0\'ed \'f1 \'f4\'f3\'ed\'ea\'f6\'e8\'ee\'ed\'e0\'eb\'ed\'ee\'f1\'f2\'e8 \'ed\'e0 \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5\'f2\'ee\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-a9869e0f-b371-4131-803a-b1313a30874e</UniqueID>
+    <ParentID>X-dfa27c41-748b-431b-bc78-79ee3f649a53</ParentID>
+    <Description>Зарежда се екран с възможни проблеми</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20\'c7\'e0\'f0\'e5\'e6\'e4\'e0 \'f1\'e5 \'e5\'ea\'f0\'e0\'ed \'f1 \'e2\'fa\'e7\'ec\'ee\'e6\'ed\'e8 \'ef\'f0\'ee\'e1\'eb\'e5\'ec\'e8\cf1\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-d7642c80-2a1d-4d92-9caf-3c5d11b093f2</UniqueID>
+    <ParentID>X-ab7dda8f-299e-4eb4-9a3e-ea81c3079949</ParentID>
+    <Description>Генериране на QR код за разпознаване от системата</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c3\'e5\'ed\'e5\'f0\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \lang1033\f1 QR\lang1026\f0  \'ea\'ee\'e4 \'e7\'e0 \'f0\'e0\'e7\'ef\'ee\'e7\'ed\'e0\'e2\'e0\'ed\'e5 \'ee\'f2 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0\fs20\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-6d669b7a-79d3-4338-aab0-8d47d37fc378</UniqueID>
+    <ParentID>MSS-aac08766-44d7-497a-b673-55187964cada</ParentID>
+    <Description>Разчитане на QR кода</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d0\'e0\'e7\'f7\'e8\'f2\'e0\'ed\'e5 \'ed\'e0\lang1033\f1  QR\lang1026\f0  \'ea\'ee\'e4\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-e6d6c5dc-2a61-4e94-80fe-36f13df499c4</UniqueID>
+    <ParentID>MSS-aac08766-44d7-497a-b673-55187964cada</ParentID>
+    <Description>Калкулиране на сметка</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ca\'e0\'eb\'ea\'f3\'eb\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'f1\'ec\'e5\'f2\'ea\'e0\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-6be6b865-5feb-4aed-afe3-128d9fe67099</UniqueID>
+    <ParentID>MSS-aac08766-44d7-497a-b673-55187964cada</ParentID>
+    <Description>Изпращане на заявка до банковата система за проверка на наличната сума</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c8\'e7\'ef\'f0\'e0\'f9\'e0\'ed\'e5 \'ed\'e0 \'e7\'e0\'ff\'e2\'ea\'e0 \'e4\'ee \'e1\'e0\'ed\'ea\'ee\'e2\'e0\'f2\'e0 \'f1\'e8\'f1\'f2\'e5\'ec\'e0 \'e7\'e0 \'ef\'f0\'ee\'e2\'e5\'f0\'ea\'e0 \'ed\'e0 \'ed\'e0\'eb\'e8\'f7\'ed\'e0\'f2\'e0 \'f1\'f3\'ec\'e0\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-76a640f3-480b-41dd-9bf7-f640e2e78f28</UniqueID>
+    <ParentID>X-daeb35cd-adfb-4acc-916c-8f8493679922</ParentID>
+    <Description>Съобщение за потвърждаване на покупката</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'fa\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'e7\'e0 \'ef\'ee\'f2\'e2\'fa\'f0\'e6\'e4\'e0\'e2\'e0\'ed\'e5 \'ed\'e0 \'ef\'ee\'ea\'f3\'ef\'ea\'e0\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-4b2947a7-4bde-45e5-9b35-9a10a0004086</UniqueID>
+    <ParentID>MSS-aac08766-44d7-497a-b673-55187964cada</ParentID>
+    <Description>Съобщение за въвеждане на кодове за отстъпка</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'fa\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'e7\'e0 \'e2\'fa\'e2\'e5\'e6\'e4\'e0\'ed\'e5 \'ed\'e0 \'ea\'ee\'e4\'ee\'e2\'e5 \'e7\'e0 \'ee\'f2\'f1\'f2\'fa\'ef\'ea\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-852704b3-7fe8-498e-b4d5-2c812550544b</UniqueID>
+    <ParentID>X-daeb35cd-adfb-4acc-916c-8f8493679922</ParentID>
+    <Description>Изпращане на заявка за изтегляне на необходимата сума</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c8\'e7\'ef\'f0\'e0\'f9\'e0\'ed\'e5 \'ed\'e0 \'e7\'e0\'ff\'e2\'ea\'e0 \'e7\'e0 \'e8\'e7\'f2\'e5\'e3\'eb\'ff\'ed\'e5 \'ed\'e0 \'ed\'e5\'ee\'e1\'f5\'ee\'e4\'e8\'ec\'e0\'f2\'e0 \'f1\'f3\'ec\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-040aecbc-af35-4c0b-8636-7feb0398eb24</UniqueID>
+    <ParentID>X-daeb35cd-adfb-4acc-916c-8f8493679922</ParentID>
+    <Description>Връщане на съобщение от банката</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c2\'f0\'fa\'f9\'e0\'ed\'e5 \'ed\'e0 \'f1\'fa\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'ee\'f2 \'e1\'e0\'ed\'ea\'e0\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-b0beda09-c685-4ed2-9733-048df9167976</UniqueID>
+    <ParentID>X-daeb35cd-adfb-4acc-916c-8f8493679922</ParentID>
+    <Description>Съобщение за изпълнената услуга</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'fa\'ee\'e1\'f9\'e5\'ed\'e8\'e5 \'e7\'e0 \'e8\'e7\'ef\'fa\'eb\'ed\'e5\'ed\'e0\'f2\'e0 \'f3\'f1\'eb\'f3\'e3\'e0\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f6751d67-e526-4e3d-a755-a5c559eacdbb</UniqueID>
+    <ParentID>X-b9858920-32d3-4b56-8eed-cebd518de0ad</ParentID>
+    <Description>Списък с продуктите в кошницата и техните цени</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'ef\'e8\'f1\'fa\'ea \'f1 \'ef\'f0\'ee\'e4\'f3\'ea\'f2\'e8\'f2\'e5 \'e2 \'ea\'ee\'f8\'ed\'e8\'f6\'e0\'f2\'e0 \'e8 \'f2\'e5\'f5\'ed\'e8\'f2\'e5 \'f6\'e5\'ed\'e8\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-3da552f6-1a64-46f4-83ef-7e7fe7565da6</UniqueID>
+    <ParentID>X-b9858920-32d3-4b56-8eed-cebd518de0ad</ParentID>
+    <Description>Оцветяване на продуктите, които е най-подходящо да извадим от кошницата</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ce\'f6\'e2\'e5\'f2\'ff\'e2\'e0\'ed\'e5 \'ed\'e0 \'ef\'f0\'ee\'e4\'f3\'ea\'f2\'e8\'f2\'e5, \'ea\'ee\'e8\'f2\'ee \'e5 \'ed\'e0\'e9-\'ef\'ee\'e4\'f5\'ee\'e4\'ff\'f9\'ee \'e4\'e0 \'e8\'e7\'e2\'e0\'e4\'e8\'ec \'ee\'f2 \'ea\'ee\'f8\'ed\'e8\'f6\'e0\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-899cafee-4da1-4e02-bd6d-4c601e11e56e</UniqueID>
+    <ParentID>MSS-82e151f3-e2cc-472b-aa8e-3525c11c5500</ParentID>
+    <Description>Избираме начин на търсене</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c8\'e7\'e1\'e8\'f0\'e0\'ec\'e5 \'ed\'e0\'f7\'e8\'ed \'ed\'e0 \'f2\'fa\'f0\'f1\'e5\'ed\'e5\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-eac33a0e-6a5e-4318-b28b-f3d160a09055</UniqueID>
+    <ParentID>X-d4d50a9a-1f17-4a36-846c-ef283b034365</ParentID>
+    <Description>Избираме иконата за сканиране на продукт</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c8\'e7\'e1\'e8\'f0\'e0\'ec\'e5 \'e8\'ea\'ee\'ed\'e0\'f2\'e0 \'e7\'e0 \'f1\'ea\'e0\'ed\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'ef\'f0\'ee\'e4\'f3\'ea\'f2\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-863f5dc5-904f-44b1-be01-314ed420714f</UniqueID>
+    <ParentID>X-d4d50a9a-1f17-4a36-846c-ef283b034365</ParentID>
+    <Description>Сканираме неговия баркод</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'ea\'e0\'ed\'e8\'f0\'e0\'ec\'e5 \'ed\'e5\'e3\'ee\'e2\'e8\'ff \'e1\'e0\'f0\'ea\'ee\'e4\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-47c4a93c-0b5f-4fd7-bc70-78e97ac314e8</UniqueID>
+    <ParentID>X-4fd58838-54ff-4068-b3ce-b9bad48f7f2a</ParentID>
+    <Description>В прозореца за търсене въвеждаме продуктът</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c2 \'ef\'f0\'ee\'e7\'ee\'f0\'e5\'f6\'e0 \'e7\'e0 \'f2\'fa\'f0\'f1\'e5\'ed\'e5 \'e2\'fa\'e2\'e5\'e6\'e4\'e0\'ec\'e5 \'ef\'f0\'ee\'e4\'f3\'ea\'f2\'fa\'f2\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-a40e4b45-2498-4075-874d-e674690de7e2</UniqueID>
+    <ParentID>MSS-82e151f3-e2cc-472b-aa8e-3525c11c5500</ParentID>
+    <Description>Показва се прозорец с избрания артикул и информация за него</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cf\'ee\'ea\'e0\'e7\'e2\'e0 \'f1\'e5 \'ef\'f0\'ee\'e7\'ee\'f0\'e5\'f6 \'f1 \'e8\'e7\'e1\'f0\'e0\'ed\'e8\'ff \'e0\'f0\'f2\'e8\'ea\'f3\'eb \'e8 \'e8\'ed\'f4\'ee\'f0\'ec\'e0\'f6\'e8\'ff \'e7\'e0 \'ed\'e5\'e3\'ee\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-cbc305e5-002d-426a-b5ce-cac38892dd96</UniqueID>
+    <ParentID>MSS-875c6084-dbde-4cdb-8e7d-385d4059374e</ParentID>
+    <Description>Влизане в акаунт от мобилното приложение</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c2\'eb\'e8\'e7\'e0\'ed\'e5 \'e2 \'e0\'ea\'e0\'f3\'ed\'f2 \'ee\'f2 \'ec\'ee\'e1\'e8\'eb\'ed\'ee\'f2\'ee \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-6300c246-33ed-42e9-9347-6ce8a536e033</UniqueID>
+    <ParentID>MSS-875c6084-dbde-4cdb-8e7d-385d4059374e</ParentID>
+    <Description>Сканиране на QR кода от системата</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'ea\'e0\'ed\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \lang1033\f1 QR\lang1026\f0  \'ea\'ee\'e4\'e0 \'ee\'f2 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-636d6f1f-cc74-4749-ae83-024161348c7f</UniqueID>
+    <ParentID>MSS-875c6084-dbde-4cdb-8e7d-385d4059374e</ParentID>
+    <Description>Генериране на QR код </Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}{\f1\fnil\fcharset0 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c3\'e5\'ed\'e5\'f0\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \lang1033\f1 QR\lang1026\f0  \'ea\'ee\'e4 \par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ef182313-366b-4abb-b84b-b8a9ded6f2bb</UniqueID>
+    <ParentID>MSS-875c6084-dbde-4cdb-8e7d-385d4059374e</ParentID>
+    <Description>Съобщение</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'fa\'ee\'e1\'f9\'e5\'ed\'e8\'e5\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-2882635d-aaff-47e4-af99-ccfe9229d7c4</UniqueID>
+    <ParentID>X-60f50382-f120-4e78-95b4-c018b9c9e67f</ParentID>
+    <Description>Отваряне на страница с възможни проблеми и ретрния</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ce\'f2\'e2\'e0\'f0\'ff\'ed\'e5 \'ed\'e0 \'f1\'f2\'f0\'e0\'ed\'e8\'f6\'e0 \'f1 \'e2\'fa\'e7\'ec\'ee\'e6\'ed\'e8 \'ef\'f0\'ee\'e1\'eb\'e5\'ec\'e8 \'e8 \'f0\'e5\'f2\'f0\'ed\'e8\'ff\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-8a251f77-0794-4342-b966-47a52e372cd4</UniqueID>
+    <ParentID>X-9c559b8b-fe5a-4219-86af-dc5f94daf0ab</ParentID>
+    <Description>Активиране на виртуална сметка</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\f0\fs20\'c0\'ea\'f2\'e8\'e2\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'e2\'e8\'f0\'f2\'f3\'e0\'eb\'ed\'e0 \'f1\'ec\'e5\'f2\'ea\'e0\cf1\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-4b37ed1f-885f-4553-818d-025aad17c1a8</UniqueID>
+    <ParentID>MSS-18061609-b1c5-40dd-9cc0-9f1c0a389c9a</ParentID>
+    <Description>Начин на плащане</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cd\'e0\'f7\'e8\'ed \'ed\'e0 \'ef\'eb\'e0\'f9\'e0\'ed\'e5\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-9e7e3ca5-fc6c-4682-970f-404969dfa6da</UniqueID>
+    <ParentID>X-415a7cac-05ba-4f7c-bbca-c5fbf0123c90</ParentID>
+    <Description>Заявката се изпраща за верификация от банката</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c7\'e0\'ff\'e2\'ea\'e0\'f2\'e0 \'f1\'e5 \'e8\'e7\'ef\'f0\'e0\'f9\'e0 \'e7\'e0 \'e2\'e5\'f0\'e8\'f4\'e8\'ea\'e0\'f6\'e8\'ff \'ee\'f2 \'e1\'e0\'ed\'ea\'e0\'f2\'e0\fs20\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f30d7d19-4ea0-49c0-804c-4dca16def20f</UniqueID>
+    <ParentID>X-1c3c282f-a8ff-4fb0-a9f0-7be166857be5</ParentID>
+    <Description>Свързване с акаунт</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'e2\'fa\'f0\'e7\'e2\'e0\'ed\'e5 \'f1 \'e0\'ea\'e0\'f3\'ed\'f2\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-7566bd00-b07b-4ce3-b4df-468f87b646c9</UniqueID>
+    <ParentID>MSS-ec75e9ff-450f-4ee4-85eb-3ded7c9a4e4e</ParentID>
+    <Description>отваряне на софтуера</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ee\'f2\'e2\'e0\'f0\'ff\'ed\'e5 \'ed\'e0 \'f1\'ee\'f4\'f2\'f3\'e5\'f0\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-f1f77eda-8a15-4a74-8ba8-797374359fef</UniqueID>
+    <ParentID>MSS-ec75e9ff-450f-4ee4-85eb-3ded7c9a4e4e</ParentID>
+    <Description>кликване на бутон "добави продукт" </Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ea\'eb\'e8\'ea\'e2\'e0\'ed\'e5 \'ed\'e0 \'e1\'f3\'f2\'ee\'ed "\'e4\'ee\'e1\'e0\'e2\'e8 \'ef\'f0\'ee\'e4\'f3\'ea\'f2" \par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-bcb6272e-2d6c-4b4e-8574-6a9933d9c070</UniqueID>
+    <ParentID>MSS-ec75e9ff-450f-4ee4-85eb-3ded7c9a4e4e</ParentID>
+    <Description>попълване на задължителните полета </Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ef\'ee\'ef\'fa\'eb\'e2\'e0\'ed\'e5 \'ed\'e0 \'e7\'e0\'e4\'fa\'eb\'e6\'e8\'f2\'e5\'eb\'ed\'e8\'f2\'e5 \'ef\'ee\'eb\'e5\'f2\'e0 \par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-aba11ba4-62e9-4214-a655-3d4440fe5b0e</UniqueID>
+    <ParentID>MSS-ec75e9ff-450f-4ee4-85eb-3ded7c9a4e4e</ParentID>
+    <Description>натискане на бутон " добави"</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ed\'e0\'f2\'e8\'f1\'ea\'e0\'ed\'e5 \'ed\'e0 \'e1\'f3\'f2\'ee\'ed " \'e4\'ee\'e1\'e0\'e2\'e8"\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-33573553-8da2-4fae-93c4-76bf5b2ee4b2</UniqueID>
+    <ParentID>MSS-ea62262a-8470-4eea-9764-5ff9d102b01c</ParentID>
+    <Description>влизане в системата</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'e2\'eb\'e8\'e7\'e0\'ed\'e5 \'e2 \'f1\'e8\'f1\'f2\'e5\'ec\'e0\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-970559ab-b8e5-4274-adc7-b9294cf13d66</UniqueID>
+    <ParentID>MSS-ea62262a-8470-4eea-9764-5ff9d102b01c</ParentID>
+    <Description>влизане в раздел "наличности и продукти"</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'e2\'eb\'e8\'e7\'e0\'ed\'e5 \'e2 \'f0\'e0\'e7\'e4\'e5\'eb "\'ed\'e0\'eb\'e8\'f7\'ed\'ee\'f1\'f2\'e8 \'e8 \'ef\'f0\'ee\'e4\'f3\'ea\'f2\'e8"\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-ad89db2b-3bfb-4cd0-8a95-bb9f5430be33</UniqueID>
+    <ParentID>MSS-ea62262a-8470-4eea-9764-5ff9d102b01c</ParentID>
+    <Description>намиране на продукт и избиране ("кликване 2 пъти" )</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ed\'e0\'ec\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'ef\'f0\'ee\'e4\'f3\'ea\'f2 \'e8 \'e8\'e7\'e1\'e8\'f0\'e0\'ed\'e5 ("\'ea\'eb\'e8\'ea\'e2\'e0\'ed\'e5 2 \'ef\'fa\'f2\'e8" )\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-3b69a144-9587-4a6e-a72c-836d08b1515c</UniqueID>
+    <ParentID>MSS-ea62262a-8470-4eea-9764-5ff9d102b01c</ParentID>
+    <Description>редактиране на нужните полета</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'f0\'e5\'e4\'e0\'ea\'f2\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'ed\'f3\'e6\'ed\'e8\'f2\'e5 \'ef\'ee\'eb\'e5\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>3</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Step>
+    <UniqueID>ST-959fd25a-156f-416b-bb2d-3773d4821e43</UniqueID>
+    <ParentID>MSS-ea62262a-8470-4eea-9764-5ff9d102b01c</ParentID>
+    <Description>кликване "запази"</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ea\'eb\'e8\'ea\'e2\'e0\'ed\'e5 "\'e7\'e0\'ef\'e0\'e7\'e8"\par
+}
+</RichDescription>
+    <Sequence>4</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Step>
+  <Extension>
+    <UniqueID>X-ab7dda8f-299e-4eb4-9a3e-ea81c3079949</UniqueID>
+    <ParentID>ST-c966d3e4-e079-4075-b3b0-fd0d0f3aa23d</ParentID>
+    <Description>Проверката премина успешно</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cf\'f0\'ee\'e2\'e5\'f0\'ea\'e0\'f2\'e0 \'ef\'f0\'e5\'ec\'e8\'ed\'e0 \'f3\'f1\'ef\'e5\'f8\'ed\'ee\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-dfa27c41-748b-431b-bc78-79ee3f649a53</UniqueID>
+    <ParentID>ST-c966d3e4-e079-4075-b3b0-fd0d0f3aa23d</ParentID>
+    <Description>Не може да използвате приложението</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cd\'e5 \'ec\'ee\'e6\'e5 \'e4\'e0 \'e8\'e7\'ef\'ee\'eb\'e7\'e2\'e0\'f2\'e5 \'ef\'f0\'e8\'eb\'ee\'e6\'e5\'ed\'e8\'e5\'f2\'ee\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-daeb35cd-adfb-4acc-916c-8f8493679922</UniqueID>
+    <ParentID>ST-6be6b865-5feb-4aed-afe3-128d9fe67099</ParentID>
+    <Description>Сумата е налична</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'f3\'ec\'e0\'f2\'e0 \'e5 \'ed\'e0\'eb\'e8\'f7\'ed\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-b9858920-32d3-4b56-8eed-cebd518de0ad</UniqueID>
+    <ParentID>ST-6be6b865-5feb-4aed-afe3-128d9fe67099</ParentID>
+    <Description>Сумата не е налична</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'f3\'ec\'e0\'f2\'e0 \'ed\'e5 \'e5 \'ed\'e0\'eb\'e8\'f7\'ed\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-d4d50a9a-1f17-4a36-846c-ef283b034365</UniqueID>
+    <ParentID>ST-899cafee-4da1-4e02-bd6d-4c601e11e56e</ParentID>
+    <Description>Чрез сканиране</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d7\'f0\'e5\'e7 \'f1\'ea\'e0\'ed\'e8\'f0\'e0\'ed\'e5\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-4fd58838-54ff-4068-b3ce-b9bad48f7f2a</UniqueID>
+    <ParentID>ST-899cafee-4da1-4e02-bd6d-4c601e11e56e</ParentID>
+    <Description>Чрез търсене в базата данни</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d7\'f0\'e5\'e7 \'f2\'fa\'f0\'f1\'e5\'ed\'e5 \'e2 \'e1\'e0\'e7\'e0\'f2\'e0 \'e4\'e0\'ed\'ed\'e8\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-9c559b8b-fe5a-4219-86af-dc5f94daf0ab</UniqueID>
+    <ParentID>ST-ef182313-366b-4abb-b84b-b8a9ded6f2bb</ParentID>
+    <Description>Сканирането премина успешно</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'d1\'ea\'e0\'ed\'e8\'f0\'e0\'ed\'e5\'f2\'ee \'ef\'f0\'e5\'ec\'e8\'ed\'e0 \'f3\'f1\'ef\'e5\'f8\'ed\'ee\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-60f50382-f120-4e78-95b4-c018b9c9e67f</UniqueID>
+    <ParentID>ST-ef182313-366b-4abb-b84b-b8a9ded6f2bb</ParentID>
+    <Description>Проблем при сканиране</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'cf\'f0\'ee\'e1\'eb\'e5\'ec \'ef\'f0\'e8 \'f1\'ea\'e0\'ed\'e8\'f0\'e0\'ed\'e5\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-415a7cac-05ba-4f7c-bbca-c5fbf0123c90</UniqueID>
+    <ParentID>ST-4b37ed1f-885f-4553-818d-025aad17c1a8</ParentID>
+    <Description>Банка</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c1\'e0\'ed\'ea\'e0\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-1c3c282f-a8ff-4fb0-a9f0-7be166857be5</UniqueID>
+    <ParentID>ST-4b37ed1f-885f-4553-818d-025aad17c1a8</ParentID>
+    <Description>Виртуална валута</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'c2\'e8\'f0\'f2\'f3\'e0\'eb\'ed\'e0 \'e2\'e0\'eb\'f3\'f2\'e0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-c5edc561-3679-4645-9829-9a04c11d3a3b</UniqueID>
+    <ParentID>ST-bcb6272e-2d6c-4b4e-8574-6a9933d9c070</ParentID>
+    <Description>маркиране на баркод</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'ec\'e0\'f0\'ea\'e8\'f0\'e0\'ed\'e5 \'ed\'e0 \'e1\'e0\'f0\'ea\'ee\'e4\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <Extension>
+    <UniqueID>X-0053d2c9-707b-48ca-bc25-f78731ea65a8</UniqueID>
+    <ParentID>ST-bcb6272e-2d6c-4b4e-8574-6a9933d9c070</ParentID>
+    <Description>ръчно добавяне</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1251\deff0\deflang1026{\fonttbl{\f0\fnil\fcharset204 Segoe UI;}}
+\viewkind4\uc1\pard\f0\fs20\'f0\'fa\'f7\'ed\'ee \'e4\'ee\'e1\'e0\'e2\'ff\'ed\'e5\fs20\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+    <jsonTestStepBag>{"TestScenarioSteps":[]}</jsonTestStepBag>
+  </Extension>
+  <UserID>
+    <DefaultPrefix>UC-</DefaultPrefix>
+    <NextValue>22</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>A-</DefaultPrefix>
+    <NextValue>10</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>REQ-</DefaultPrefix>
+    <NextValue>34</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>DEF-</DefaultPrefix>
+    <NextValue>1</NextValue>
+  </UserID>
+  <UserID>
+    <DefaultPrefix>S-</DefaultPrefix>
+    <NextValue>1</NextValue>
+  </UserID>
+  <ReqReq>
+    <ParentID>REQ-74073521-16cc-4176-9ce4-556869f69d81</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</ParentID>
+    <ReqID>REQ-74073521-16cc-4176-9ce4-556869f69d81</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ParentID>
+    <ReqID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ParentID>
+    <ReqID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-74073521-16cc-4176-9ce4-556869f69d81</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-74073521-16cc-4176-9ce4-556869f69d81</ParentID>
+    <ReqID>REQ-f4168ecd-4823-4acc-ac1f-7ec31e8c3d60</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-74073521-16cc-4176-9ce4-556869f69d81</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ParentID>
+    <ReqID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ParentID>
+    <ReqID>REQ-5920feee-9c26-4cb1-8de2-31483272a2a9</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ParentID>
+    <ReqID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-74073521-16cc-4176-9ce4-556869f69d81</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-5920feee-9c26-4cb1-8de2-31483272a2a9</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-92b90749-845f-41b4-b0a3-319a8d36bf68</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-45b304d7-e271-4342-9693-bd3fa97d1491</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-f4168ecd-4823-4acc-ac1f-7ec31e8c3d60</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-2c044d4d-0b52-4ccb-9f57-69024c9610ac</ParentID>
+    <ReqID>REQ-d3195ea7-97ed-4cdf-8944-8f6d9f16d480</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-5920feee-9c26-4cb1-8de2-31483272a2a9</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-5920feee-9c26-4cb1-8de2-31483272a2a9</ParentID>
+    <ReqID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-b4f5f4c2-44e9-4aab-bb89-715f03bbe1b5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-911b6d67-f104-44b0-a4cd-7ee14d05acc2</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-d3530cf6-8a26-4c52-b95c-c52f96586ed5</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ParentID>
+    <ReqID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ParentID>
+    <ReqID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ParentID>
+    <ReqID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ParentID>
+    <ReqID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-d64f3a6e-149a-47ff-953f-5dd542e44e1b</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-45c1bd53-6a3b-44fe-b73f-32412e54560f</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-45b304d7-e271-4342-9693-bd3fa97d1491</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-45b304d7-e271-4342-9693-bd3fa97d1491</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-438a1fb5-4ab5-4bab-aff8-68efc6491a4a</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ParentID>
+    <ReqID>REQ-d3195ea7-97ed-4cdf-8944-8f6d9f16d480</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-89768cab-85f1-451c-bb2d-b8973abbc5f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-7484d176-0eef-41ea-8e4e-b6df6baba095</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-07c55ff1-b080-43cd-aa7d-a6dd31496a8e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-cf990273-e842-498e-af76-dc1a2e6ef7b8</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-944fb333-5fe3-4cef-bdc7-4fec97688814</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-af79f3a4-a50c-4551-a802-710f3f3efec0</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-85b700af-344c-4f5f-ad6b-c4e304a13cd5</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-277e32fe-665a-4c52-9e39-c05735f0175e</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-15f4b52a-49ec-4119-99a8-9d00bcf06aad</ParentID>
+    <ReqID>REQ-7327d334-6dd3-4cd2-a485-9fda17daf7f7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-5920feee-9c26-4cb1-8de2-31483272a2a9</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-b9524655-b0a8-4586-ba62-30614c0d003c</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-16aacb0c-c6f3-4ce8-9295-4a4c4f6141ba</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-45b304d7-e271-4342-9693-bd3fa97d1491</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-ee464cdf-83a5-4a48-b38d-8f6620a3b918</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-e367ee8c-ceb0-4a70-a0ff-412c918876ac</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-72488d81-c82a-49fd-9164-e69f294f2ca7</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ParentID>
+    <ReqID>REQ-62f5dac6-788b-486e-a59e-ba0c85fa6415</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-16aacb0c-c6f3-4ce8-9295-4a4c4f6141ba</ParentID>
+    <ReqID>REQ-1491fe8b-1574-4b21-978c-bfa286338546</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-16aacb0c-c6f3-4ce8-9295-4a4c4f6141ba</ParentID>
+    <ReqID>REQ-f63c6f32-0ddc-4ec1-9b27-4a93f89abef4</ReqID>
+  </ReqReq>
+  <ReqReq>
+    <ParentID>REQ-16aacb0c-c6f3-4ce8-9295-4a4c4f6141ba</ParentID>
+    <ReqID>REQ-45b304d7-e271-4342-9693-bd3fa97d1491</ReqID>
+  </ReqReq>
+  <BuiltInField>
+    <UniqueID>1</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the use case.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>2</UniqueID>
+    <Name>Level</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>The level of detail in the use case.</Description>
+    <DefaultValue />
+    <Choices>Summary;User;Subfunction</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>3</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>An indication of the difficulty of implementation.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>4</UniqueID>
+    <Name>UseCaseStatus</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the use case specification.</Description>
+    <DefaultValue />
+    <Choices>Name Only;Initial;Base;Complete;Deferred</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>5</UniqueID>
+    <Name>ImplStatus</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the use case implementation.</Description>
+    <DefaultValue />
+    <Choices>Scheduled;Started;Partially Complete;Complete;Partially Deferred;Deferred</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>6</UniqueID>
+    <Name>AssignedTo</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Who is responsible for this use case.</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>7</UniqueID>
+    <Name>Release</Name>
+    <AppliesTo>0</AppliesTo>
+    <Category>Details</Category>
+    <Description>Which release this use case is applicable to.</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>100</UniqueID>
+    <Name>ReqType</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>The type of requirement.</Description>
+    <DefaultValue>Non-functional</DefaultValue>
+    <Choices>Functional;Non-functional;Business Rule;Constraint;Performance;Test;Change Request</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>101</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the requirement.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>102</UniqueID>
+    <Name>Source</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Where did the requirement originate?</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>103</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the requirement.</Description>
+    <DefaultValue />
+    <Choices>Proposed;Approved;Rejected;Deferred;Implemented;Mandatory;Obsolete</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>104</UniqueID>
+    <Name>AssignedTo</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Who is responsible for this requirement?</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>105</UniqueID>
+    <Name>Release</Name>
+    <AppliesTo>3</AppliesTo>
+    <Category>Details</Category>
+    <Description>Which release this requirement is applicable to.</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>200</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>1</AppliesTo>
+    <Category>Details</Category>
+    <Description>Complexity of this actor's interactions with the system.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>300</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority for resolving issue.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>301</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>State of issue.</Description>
+    <DefaultValue />
+    <Choices>New;Assigned;Resolved;Deferred</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>302</UniqueID>
+    <Name>Type</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Type of issue.</Description>
+    <DefaultValue />
+    <Choices>Question;Approval;Clarification;Defect;Feature</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>303</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Complexity of issue to be resolved.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>304</UniqueID>
+    <Name>Risk</Name>
+    <AppliesTo>6</AppliesTo>
+    <Category>Details</Category>
+    <Description>Risk to project while unresolved.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>400</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>State of test scenario.</Description>
+    <DefaultValue />
+    <Choices>New;Partially defined;Defined</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>401</UniqueID>
+    <Name>TestType</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>Type of test.</Description>
+    <DefaultValue />
+    <Choices>Acceptance;Usability;Performance;Load;Security;Bounds;White box</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>402</UniqueID>
+    <Name>Complexity</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>Complexity of test.</Description>
+    <DefaultValue />
+    <Choices>Low;Medium;High</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>403</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>7</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the test scenario.</Description>
+    <DefaultValue>1</DefaultValue>
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>501</UniqueID>
+    <Name>Priority</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>Priority of the user story.</Description>
+    <DefaultValue />
+    <Choices>Must;Should;Could;Won't</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>502</UniqueID>
+    <Name>Size</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>The relative complexity of the user story.</Description>
+    <DefaultValue />
+    <Choices>X-Small;Small;Med;Large;X-Large</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>503</UniqueID>
+    <Name>AssignedTo</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>Who is responsible for this user story?</Description>
+    <DefaultValue />
+    <Choices />
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+  <BuiltInField>
+    <UniqueID>504</UniqueID>
+    <Name>Status</Name>
+    <AppliesTo>9</AppliesTo>
+    <Category>Details</Category>
+    <Description>Status of the user story.</Description>
+    <DefaultValue />
+    <Choices>Backlog;Doing;Review;Done</Choices>
+    <ChoicesExclusive>false</ChoicesExclusive>
+    <Multiline>false</Multiline>
+  </BuiltInField>
+</UCTDataSet>

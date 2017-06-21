@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="">
+  <Sections>
+    <Section>
+      <NDrawingDocument UniqueId="26ac7fe7-515f-4347-92c8-96e1a0c12d8a" Id="213" Name="Document" ActiveLayerUniqueId="f513b99a-c577-4277-99b7-00a24b59392b" AutoBoundsMode="AutoInflateToContent" MeasurementUnit="GDI,Pixel" CustomWorldMeasurementUnit="GDI,Pixel">
+        <Tag xsi:type="xsd:string">D-b64050ef-84fd-4e52-aaa5-b1dd3c0cf0bc</Tag>
+        <Info />
+        <BackgroundStyle>
+          <FrameStyle xsi:type="NStandardFrameStyle" OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+            <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+            <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+            <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+            <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+          </FrameStyle>
+          <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+        </BackgroundStyle>
+        <Nodes>
+          <NDiagramElement xsi:type="NLayerCollection" Name="Layers" UniqueId="00000000-0000-0000-0000-000000000000" Id="0">
+            <Nodes>
+              <NDiagramElement xsi:type="NLayer" Name="Layer" UniqueId="f513b99a-c577-4277-99b7-00a24b59392b" Id="1">
+                <Style />
+                <Nodes>
+                  <NDiagramElement xsi:type="NTextShape" Name="TextShape" UniqueId="00000000-0000-0000-0000-000000000000" Id="2" Collapsed="false">
+                    <Style>
+                      <TextStyle>
+                        <FontStyle Style="Bold" GdiCharSet="1">
+                          <EmSize Value="14" MeasurementUnit="GDI,Point" />
+                        </FontStyle>
+                        <StringFormatStyle />
+                        <BackplaneStyle Visible="false">
+                          <Padding>
+                            <Left Value="1" MeasurementUnit="GDI,Point" />
+                            <Top Value="0.5" MeasurementUnit="GDI,Point" />
+                            <Right Value="1" MeasurementUnit="GDI,Point" />
+                            <Bottom Value="0.5" MeasurementUnit="GDI,Point" />
+                          </Padding>
+                          <Inflate>
+                            <Width Value="1" MeasurementUnit="GDI,Point" />
+                            <Height Value="0.5" MeasurementUnit="GDI,Point" />
+                          </Inflate>
+                          <StandardFrameStyle OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+                            <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                            <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                            <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+                            <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                          </StandardFrameStyle>
+                          <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                          <ShadowStyle Color="0,2097152000">
+                            <Offset>
+                              <X Value="1" MeasurementUnit="GDI,Point" />
+                              <Y Value="1" MeasurementUnit="GDI,Point" />
+                            </Offset>
+                            <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                          </ShadowStyle>
+                        </BackplaneStyle>
+                        <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                        <BorderStyle Color="0,4278190080" LineJoin="MiterClipped">
+                          <Width MeasurementUnit="GDI,Point" />
+                        </BorderStyle>
+                        <ShadowStyle Color="0,2097152000">
+                          <Offset>
+                            <X Value="1" MeasurementUnit="GDI,Point" />
+                            <Y Value="1" MeasurementUnit="GDI,Point" />
+                          </Offset>
+                          <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                        </ShadowStyle>
+                        <Offset>
+                          <X MeasurementUnit="GDI,Point" />
+                          <Y MeasurementUnit="GDI,Point" />
+                        </Offset>
+                      </TextStyle>
+                    </Style>
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="25" Y="20" Width="600" Height="40" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NTextPrimitive" Name="TextPrimitive" UniqueId="00000000-0000-0000-0000-000000000000" Id="3" Text="UC-2 преглед на повече инфо. за артикул">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="25" Y="20" Width="600" Height="40" />
+                        <ModelRectangle X="25" Y="20" Width="600" Height="40" />
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="600" Height="40" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NEllipseShape" Name="Circle" UniqueId="f1de7b9f-c232-4e30-899a-1a7899cb9ff8" Id="4" Collapsed="false">
+                    <Protection Mask="512" />
+                    <Style>
+                      <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                    </Style>
+                    <Transform M11="12.5" M12="0" M21="0" M22="12.5" DX="129.5" DY="82.5" />
+                    <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NEllipsePath" Name="EllipsePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="5" ModelXRadius="1" ModelYRadius="1" ModelAngle="0">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                        <ModelCenter X="0" Y="0" />
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="6" DefaultLabelUniqueId="5b8590e3-6850-4c2e-adc1-35bf6403be9e">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="5b8590e3-6850-4c2e-adc1-35bf6403be9e" Id="7" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="00000000-0000-0000-0000-000000000000" Id="8" DefaultInwardPortUniqueId="936fd3e1-144a-4c92-91a9-b577b6af8927" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="936fd3e1-144a-4c92-91a9-b577b6af8927" Id="9" AnchorUniqueId="f1de7b9f-c232-4e30-899a-1a7899cb9ff8" CustomDirectionAngle="0" />
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="00000000-0000-0000-0000-000000000000" Id="10" AnchorUniqueId="f1de7b9f-c232-4e30-899a-1a7899cb9ff8" CustomDirectionAngle="0">
+                            <Alignment PercentY="-50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="00000000-0000-0000-0000-000000000000" Id="11" AnchorUniqueId="f1de7b9f-c232-4e30-899a-1a7899cb9ff8" CustomDirectionAngle="0">
+                            <Alignment PercentX="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="00000000-0000-0000-0000-000000000000" Id="12" AnchorUniqueId="f1de7b9f-c232-4e30-899a-1a7899cb9ff8" CustomDirectionAngle="0">
+                            <Alignment PercentY="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="00000000-0000-0000-0000-000000000000" Id="13" AnchorUniqueId="f1de7b9f-c232-4e30-899a-1a7899cb9ff8" CustomDirectionAngle="0">
+                            <Alignment PercentX="-50" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="2" Height="2" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NCompositeShape" Name="Rounded Rectangle" UniqueId="b4a20bfc-5eb7-4db8-b0bd-701b6fc42f15" Id="14" Collapsed="false">
+                    <Style />
+                    <Transform M11="104" M12="0" M21="0" M22="17.4531231" DX="129.000031" DY="142.453125" />
+                    <ModelBounds X="-1.00000024" Y="-1.00000024" Width="2" Height="2" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NPrimitiveModelCollection" Name="Primitives" UniqueId="00000000-0000-0000-0000-000000000000" Id="15">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NCustomPath" Name="CustomPath" UniqueId="00000000-0000-0000-0000-000000000000" Id="16" PathType="ClosedFigure">
+                            <Transform M11="1" M12="0" M21="0" M22="0.999999762" DX="0" DY="-5.684342E-14" />
+                            <ModelBounds X="-1.00000024" Y="-1.00000048" Width="2" Height="2.00000048" />
+                            <ModelPoints>
+                              <NPointF X="0.99999994" Y="0.49999997" />
+                              <NPointF X="0.99999994" Y="0.7761423" />
+                              <NPointF X="0.776142359" Y="0.9999999" />
+                              <NPointF X="0.50000006" Y="0.99999994" />
+                              <NPointF X="-0.499999821" Y="0.99999994" />
+                              <NPointF X="-0.7761422" Y="1" />
+                              <NPointF X="-0.9999999" Y="0.776142538" />
+                              <NPointF X="-1" Y="0.5000002" />
+                              <NPointF X="-1.00000012" Y="-0.4999997" />
+                              <NPointF X="-1.00000024" Y="-0.776142" />
+                              <NPointF X="-0.776142836" Y="-0.999999762" />
+                              <NPointF X="-0.500000536" Y="-1.00000012" />
+                              <NPointF X="0.499999166" Y="-1" />
+                              <NPointF X="0.7761415" Y="-1.00000048" />
+                              <NPointF X="0.9999995" Y="-0.7761432" />
+                              <NPointF X="0.99999994" Y="-0.5000002" />
+                              <NPointF X="0.99999994" Y="-0.50000006" />
+                              <NPointF X="0.99999994" Y="-0.49999997" />
+                              <NPointF X="0.99999994" Y="-0.499999881" />
+                            </ModelPoints>
+                            <ModelPointsTypes>
+                              <unsignedByte>0</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>131</unsignedByte>
+                            </ModelPointsTypes>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="17" DefaultLabelUniqueId="eaadc987-a0d9-4976-8a39-73476e6b7778">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="eaadc987-a0d9-4976-8a39-73476e6b7778" Id="18" Text="1.  Избираме начин на търсене">
+                            <Margins>
+                              <All xmlns="Nevron.Diagram">0</All>
+                              <Left xmlns="Nevron.Diagram">4</Left>
+                              <Right xmlns="Nevron.Diagram">4</Right>
+                              <Top xmlns="Nevron.Diagram">0</Top>
+                              <Bottom xmlns="Nevron.Diagram">0</Bottom>
+                            </Margins>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="00000000-0000-0000-0000-000000000000" Id="19" DefaultInwardPortUniqueId="6e7ff340-99af-4188-bbd8-2e5388d43dfb" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="6e7ff340-99af-4188-bbd8-2e5388d43dfb" Id="20" AnchorUniqueId="b4a20bfc-5eb7-4db8-b0bd-701b6fc42f15" CustomDirectionAngle="0" />
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="00000000-0000-0000-0000-000000000000" Id="21" AnchorUniqueId="b4a20bfc-5eb7-4db8-b0bd-701b6fc42f15" CustomDirectionAngle="0">
+                            <Alignment PercentY="-50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="00000000-0000-0000-0000-000000000000" Id="22" AnchorUniqueId="b4a20bfc-5eb7-4db8-b0bd-701b6fc42f15" CustomDirectionAngle="0">
+                            <Alignment PercentX="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="00000000-0000-0000-0000-000000000000" Id="23" AnchorUniqueId="b4a20bfc-5eb7-4db8-b0bd-701b6fc42f15" CustomDirectionAngle="0">
+                            <Alignment PercentY="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="00000000-0000-0000-0000-000000000000" Id="24" AnchorUniqueId="b4a20bfc-5eb7-4db8-b0bd-701b6fc42f15" CustomDirectionAngle="0">
+                            <Alignment PercentX="-50" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="2" Height="2" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NLineShape" Name="LineShape" UniqueId="00000000-0000-0000-0000-000000000000" Id="25" StyleSheetName="Connectors" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="129.145554" Y="94.9895859" Width="0.250274658" Height="30.0104141" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NLinePath" Name="LinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="26">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="129.145554" Y="94.9895859" Width="0.250274658" Height="30.0104141" />
+                        <ModelPoints>
+                          <NPointF X="129.395828" Y="94.9895859" />
+                          <NPointF X="129.145554" Y="125" />
+                        </ModelPoints>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="27" DefaultLabelUniqueId="ea1b358b-4d19-421b-8e63-74ee1374602d">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="ea1b358b-4d19-421b-8e63-74ee1374602d" Id="28" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="29">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="f7c0170e-57de-4d1e-8f38-33629502ad86" Id="30" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="2aa0e9dc-7ede-4917-adcc-4cc3ae1d87ba" Id="31" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="0.250274658" Height="30.0104141" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NPolygonShape" Name="Off Page Reference" UniqueId="52a1a8fc-f267-4adf-bc97-e334fb5c4a20" Id="32" Collapsed="false">
+                    <Style>
+                      <FillStyle xsi:type="NColorFillStyle" Color="0,4289309097" />
+                    </Style>
+                    <Transform M11="5" M12="0" M21="0" M22="35" DX="288" DY="142.453125" />
+                    <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NPolygonPath" Name="PolygonPath" UniqueId="00000000-0000-0000-0000-000000000000" Id="33">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                        <ModelPoints>
+                          <NPointF X="0" Y="-1" />
+                          <NPointF X="1" Y="0" />
+                          <NPointF X="0" Y="1" />
+                          <NPointF X="-1" Y="1" />
+                          <NPointF X="-1" Y="-1" />
+                        </ModelPoints>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="34" DefaultLabelUniqueId="385ab61c-892b-4cde-926e-30c1ac7a0402">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="385ab61c-892b-4cde-926e-30c1ac7a0402" Id="35" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="00000000-0000-0000-0000-000000000000" Id="36" DefaultInwardPortUniqueId="b56c6683-67a8-4c7c-82bc-8150ee68477c" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="DynamicPort" UniqueId="b56c6683-67a8-4c7c-82bc-8150ee68477c" Id="37" AnchorUniqueId="52a1a8fc-f267-4adf-bc97-e334fb5c4a20" CustomDirectionAngle="0" />
+                          <NDiagramElement xsi:type="NDynamicPort" Name="DynamicPort_2" UniqueId="8893d179-b2c9-4a02-985e-00fe75dc3707" Id="38" AnchorUniqueId="00000000-0000-0000-0000-000000000000" CustomDirectionAngle="0">
+                            <Offset Width="0" Height="13" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="DynamicPort_3" UniqueId="56fa2a25-935e-4184-9e7f-38921d726142" Id="39" AnchorUniqueId="00000000-0000-0000-0000-000000000000" CustomDirectionAngle="0">
+                            <Offset Width="0" Height="-12" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="2" Height="2" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NLineShape" Name="LineShape_2" UniqueId="00000000-0000-0000-0000-000000000000" Id="40" StyleSheetName="Connectors" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="233" Y="142.453125" Width="50" Height="0" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NLinePath" Name="LinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="41">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="233" Y="142.453125" Width="50" Height="0" />
+                        <ModelPoints>
+                          <NPointF X="233" Y="142.453125" />
+                          <NPointF X="283" Y="142.453125" />
+                        </ModelPoints>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="42" DefaultLabelUniqueId="c9312932-5b81-4db6-837b-cfed2100a57f">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="c9312932-5b81-4db6-837b-cfed2100a57f" Id="43" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="44">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="3248319c-320a-4508-bdde-70b3b2e8b125" Id="45" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="d36a03e3-1535-40f2-aaa0-fde0ae28ee2a" Id="46" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="50" Height="0" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NCompositeShape" Name="Rounded Rectangle" UniqueId="dd3c2ed0-2ee5-4f04-9484-67d5681c9edb" Id="47" Collapsed="false">
+                    <Style />
+                    <Transform M11="104" M12="0" M21="0" M22="24.5488262" DX="354.000031" DY="212.001953" />
+                    <ModelBounds X="-1.00000024" Y="-1.00000024" Width="2" Height="2" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NPrimitiveModelCollection" Name="Primitives" UniqueId="00000000-0000-0000-0000-000000000000" Id="48">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NCustomPath" Name="CustomPath" UniqueId="00000000-0000-0000-0000-000000000000" Id="49" PathType="ClosedFigure">
+                            <Transform M11="1" M12="0" M21="0" M22="0.999999762" DX="0" DY="-5.684342E-14" />
+                            <ModelBounds X="-1.00000024" Y="-1.00000048" Width="2" Height="2.00000048" />
+                            <ModelPoints>
+                              <NPointF X="0.99999994" Y="0.49999997" />
+                              <NPointF X="0.99999994" Y="0.7761423" />
+                              <NPointF X="0.776142359" Y="0.9999999" />
+                              <NPointF X="0.50000006" Y="0.99999994" />
+                              <NPointF X="-0.499999821" Y="0.99999994" />
+                              <NPointF X="-0.7761422" Y="1" />
+                              <NPointF X="-0.9999999" Y="0.776142538" />
+                              <NPointF X="-1" Y="0.5000002" />
+                              <NPointF X="-1.00000012" Y="-0.4999997" />
+                              <NPointF X="-1.00000024" Y="-0.776142" />
+                              <NPointF X="-0.776142836" Y="-0.999999762" />
+                              <NPointF X="-0.500000536" Y="-1.00000012" />
+                              <NPointF X="0.499999166" Y="-1" />
+                              <NPointF X="0.7761415" Y="-1.00000048" />
+                              <NPointF X="0.9999995" Y="-0.7761432" />
+                              <NPointF X="0.99999994" Y="-0.5000002" />
+                              <NPointF X="0.99999994" Y="-0.50000006" />
+                              <NPointF X="0.99999994" Y="-0.49999997" />
+                              <NPointF X="0.99999994" Y="-0.499999881" />
+                            </ModelPoints>
+                            <ModelPointsTypes>
+                              <unsignedByte>0</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>131</unsignedByte>
+                            </ModelPointsTypes>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="50" DefaultLabelUniqueId="538ca3b6-f83c-4b42-8f4c-d2972e34420a">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="538ca3b6-f83c-4b42-8f4c-d2972e34420a" Id="51" Text="1.  Избираме иконата за сканиране на продукт">
+                            <Margins>
+                              <All xmlns="Nevron.Diagram">0</All>
+                              <Left xmlns="Nevron.Diagram">4</Left>
+                              <Right xmlns="Nevron.Diagram">4</Right>
+                              <Top xmlns="Nevron.Diagram">0</Top>
+                              <Bottom xmlns="Nevron.Diagram">0</Bottom>
+                            </Margins>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="00000000-0000-0000-0000-000000000000" Id="52" DefaultInwardPortUniqueId="be072b10-aa31-406b-93de-5a9cb93ddeef" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="be072b10-aa31-406b-93de-5a9cb93ddeef" Id="53" AnchorUniqueId="dd3c2ed0-2ee5-4f04-9484-67d5681c9edb" CustomDirectionAngle="0" />
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="43a0600d-3ffc-41ce-9a76-f989be48708e" Id="54" AnchorUniqueId="dd3c2ed0-2ee5-4f04-9484-67d5681c9edb" CustomDirectionAngle="0">
+                            <Alignment PercentY="-50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="93f8d225-94cc-45ba-9b29-ba22ca6de95c" Id="55" AnchorUniqueId="dd3c2ed0-2ee5-4f04-9484-67d5681c9edb" CustomDirectionAngle="0">
+                            <Alignment PercentX="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="634d5397-ac9f-4cc9-bb5a-0a4c9b1e3bbb" Id="56" AnchorUniqueId="dd3c2ed0-2ee5-4f04-9484-67d5681c9edb" CustomDirectionAngle="0">
+                            <Alignment PercentY="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="48cddbf6-2315-4634-88ac-bd0220d4f3ea" Id="57" AnchorUniqueId="dd3c2ed0-2ee5-4f04-9484-67d5681c9edb" CustomDirectionAngle="0">
+                            <Alignment PercentX="-50" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="2" Height="2" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NCompositeShape" Name="Rounded Rectangle" UniqueId="9c184f70-5dbd-457f-adf6-323ec8aae9b0" Id="58" Collapsed="false">
+                    <Tag xsi:type="CCShapeInfo">
+                      <LinkedDiagram>
+                        <FileName>активиранеНаВитруалнаСметкаActivityDiagram.ndx</FileName>
+                        <UniqueID>D-44159ef5-9fe5-4140-a63d-ae8d3bfcd63d</UniqueID>
+                      </LinkedDiagram>
+                    </Tag>
+                    <Style />
+                    <Transform M11="104" M12="0" M21="0" M22="17.4531231" DX="354.000031" DY="284.0039" />
+                    <ModelBounds X="-1.00000024" Y="-1.00000024" Width="2" Height="2" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NPrimitiveModelCollection" Name="Primitives" UniqueId="00000000-0000-0000-0000-000000000000" Id="59">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NCustomPath" Name="CustomPath" UniqueId="00000000-0000-0000-0000-000000000000" Id="60" PathType="ClosedFigure">
+                            <Transform M11="1" M12="0" M21="0" M22="0.999999762" DX="0" DY="-5.684342E-14" />
+                            <ModelBounds X="-1.00000024" Y="-1.00000048" Width="2" Height="2.00000048" />
+                            <ModelPoints>
+                              <NPointF X="0.99999994" Y="0.49999997" />
+                              <NPointF X="0.99999994" Y="0.7761423" />
+                              <NPointF X="0.776142359" Y="0.9999999" />
+                              <NPointF X="0.50000006" Y="0.99999994" />
+                              <NPointF X="-0.499999821" Y="0.99999994" />
+                              <NPointF X="-0.7761422" Y="1" />
+                              <NPointF X="-0.9999999" Y="0.776142538" />
+                              <NPointF X="-1" Y="0.5000002" />
+                              <NPointF X="-1.00000012" Y="-0.4999997" />
+                              <NPointF X="-1.00000024" Y="-0.776142" />
+                              <NPointF X="-0.776142836" Y="-0.999999762" />
+                              <NPointF X="-0.500000536" Y="-1.00000012" />
+                              <NPointF X="0.499999166" Y="-1" />
+                              <NPointF X="0.7761415" Y="-1.00000048" />
+                              <NPointF X="0.9999995" Y="-0.7761432" />
+                              <NPointF X="0.99999994" Y="-0.5000002" />
+                              <NPointF X="0.99999994" Y="-0.50000006" />
+                              <NPointF X="0.99999994" Y="-0.49999997" />
+                              <NPointF X="0.99999994" Y="-0.499999881" />
+                            </ModelPoints>
+                            <ModelPointsTypes>
+                              <unsignedByte>0</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>131</unsignedByte>
+                            </ModelPointsTypes>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="61" DefaultLabelUniqueId="369e72d2-d8a6-4bb5-b389-08593693b0b5">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="369e72d2-d8a6-4bb5-b389-08593693b0b5" Id="62" Text="2.  Сканираме неговия баркод">
+                            <Margins>
+                              <All xmlns="Nevron.Diagram">0</All>
+                              <Left xmlns="Nevron.Diagram">4</Left>
+                              <Right xmlns="Nevron.Diagram">4</Right>
+                              <Top xmlns="Nevron.Diagram">0</Top>
+                              <Bottom xmlns="Nevron.Diagram">0</Bottom>
+                            </Margins>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="00000000-0000-0000-0000-000000000000" Id="63" DefaultInwardPortUniqueId="6328f2de-294e-4a4d-b516-6fba843acfba" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="6328f2de-294e-4a4d-b516-6fba843acfba" Id="64" AnchorUniqueId="9c184f70-5dbd-457f-adf6-323ec8aae9b0" CustomDirectionAngle="0" />
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="389adec0-c7cb-44a0-91d8-c8ba9bccda70" Id="65" AnchorUniqueId="9c184f70-5dbd-457f-adf6-323ec8aae9b0" CustomDirectionAngle="0">
+                            <Alignment PercentY="-50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="0aca4d8f-d4c1-4107-a482-70fbd4230982" Id="66" AnchorUniqueId="9c184f70-5dbd-457f-adf6-323ec8aae9b0" CustomDirectionAngle="0">
+                            <Alignment PercentX="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="514b729f-58b3-4fa6-8203-2b059c548be2" Id="67" AnchorUniqueId="9c184f70-5dbd-457f-adf6-323ec8aae9b0" CustomDirectionAngle="0">
+                            <Alignment PercentY="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="1e0aca50-1544-4159-9ec0-63a95930698e" Id="68" AnchorUniqueId="9c184f70-5dbd-457f-adf6-323ec8aae9b0" CustomDirectionAngle="0">
+                            <Alignment PercentX="-50" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="2" Height="2" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NLineShape" Name="LineShape_3" UniqueId="00000000-0000-0000-0000-000000000000" Id="69" StyleSheetName="Connectors" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="354" Y="236.550766" Width="0" Height="30.0000153" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NLinePath" Name="LinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="70">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="354" Y="236.550766" Width="0" Height="30.0000153" />
+                        <ModelPoints>
+                          <NPointF X="354" Y="236.550766" />
+                          <NPointF X="354" Y="266.550781" />
+                        </ModelPoints>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="71" DefaultLabelUniqueId="475660b4-d70e-4206-b6bf-f3909b449e0b">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="475660b4-d70e-4206-b6bf-f3909b449e0b" Id="72" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="73">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="a9113b03-e444-4232-9307-bcb21f314df6" Id="74" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="829502fe-48b2-4a6e-bba3-a65ab768c810" Id="75" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="0" Height="30.0000153" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NStep2Connector" Name="Step2Connector" UniqueId="00000000-0000-0000-0000-000000000000" Id="76" StyleSheetName="Connectors" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="291.142853" Y="155.453125" Width="62.8571472" Height="32" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NHVPolylinePath" Name="HVPolylinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="77" CornerRounding="0">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="291.142853" Y="155.453125" Width="62.8571472" Height="32" />
+                        <ModelPoints>
+                          <NPointF X="291.142853" Y="155.453125" />
+                          <NPointF X="354" Y="155.453125" />
+                          <NPointF X="354" Y="187.453125" />
+                        </ModelPoints>
+                        <SegmentTypes>
+                          <HVSegmentType>Horizontal</HVSegmentType>
+                          <HVSegmentType>Vertical</HVSegmentType>
+                        </SegmentTypes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="78" DefaultLabelUniqueId="1b0d458b-12cf-4710-8742-c62e867189e4">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="1b0d458b-12cf-4710-8742-c62e867189e4" Id="79" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="80">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="70c5fa3e-a741-4a79-92ea-4256a40befa1" Id="81" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="d2627fb3-afbd-4cda-9bf8-37c7fafed8a6" Id="82" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="62.8571472" Height="32" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NTextShape" Name="TextShape_2" UniqueId="00000000-0000-0000-0000-000000000000" Id="83" Collapsed="false">
+                    <Style>
+                      <TextStyle>
+                        <FontStyle>
+                          <EmSize Value="9" MeasurementUnit="GDI,Point" />
+                        </FontStyle>
+                        <StringFormatStyle HorzAlign="Left" />
+                        <BackplaneStyle Visible="false">
+                          <Padding>
+                            <Left Value="1" MeasurementUnit="GDI,Point" />
+                            <Top Value="0.5" MeasurementUnit="GDI,Point" />
+                            <Right Value="1" MeasurementUnit="GDI,Point" />
+                            <Bottom Value="0.5" MeasurementUnit="GDI,Point" />
+                          </Padding>
+                          <Inflate>
+                            <Width Value="1" MeasurementUnit="GDI,Point" />
+                            <Height Value="0.5" MeasurementUnit="GDI,Point" />
+                          </Inflate>
+                          <StandardFrameStyle OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+                            <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                            <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                            <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+                            <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                          </StandardFrameStyle>
+                          <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                          <ShadowStyle Color="0,2097152000">
+                            <Offset>
+                              <X Value="1" MeasurementUnit="GDI,Point" />
+                              <Y Value="1" MeasurementUnit="GDI,Point" />
+                            </Offset>
+                            <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                          </ShadowStyle>
+                        </BackplaneStyle>
+                        <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                        <BorderStyle Color="0,4278190080" LineJoin="MiterClipped">
+                          <Width MeasurementUnit="GDI,Point" />
+                        </BorderStyle>
+                        <ShadowStyle Color="0,2097152000">
+                          <Offset>
+                            <X Value="1" MeasurementUnit="GDI,Point" />
+                            <Y Value="1" MeasurementUnit="GDI,Point" />
+                          </Offset>
+                          <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                        </ShadowStyle>
+                        <Offset>
+                          <X MeasurementUnit="GDI,Point" />
+                          <Y MeasurementUnit="GDI,Point" />
+                        </Offset>
+                      </TextStyle>
+                    </Style>
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="303" Y="134.546875" Width="125.634735" Height="14.90625" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NTextPrimitive" Name="TextPrimitive" UniqueId="00000000-0000-0000-0000-000000000000" Id="84" Text="[1.a  Чрез сканиране]">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="303" Y="134.546875" Width="125.634743" Height="14.9062471" />
+                        <ModelRectangle X="303" Y="134.546875" Width="125.634743" Height="14.9062471" />
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="125.634735" Height="14.90625" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NCompositeShape" Name="Rounded Rectangle" UniqueId="433bcc9e-b1e9-4226-9f0d-c74c6f53d14e" Id="85" Collapsed="false">
+                    <Style />
+                    <Transform M11="104" M12="0" M21="0" M22="24.5488262" DX="572" DY="212.001953" />
+                    <ModelBounds X="-1.00000024" Y="-1.00000024" Width="2" Height="2" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NPrimitiveModelCollection" Name="Primitives" UniqueId="00000000-0000-0000-0000-000000000000" Id="86">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NCustomPath" Name="CustomPath" UniqueId="00000000-0000-0000-0000-000000000000" Id="87" PathType="ClosedFigure">
+                            <Transform M11="1" M12="0" M21="0" M22="0.999999762" DX="0" DY="-5.684342E-14" />
+                            <ModelBounds X="-1.00000024" Y="-1.00000048" Width="2" Height="2.00000048" />
+                            <ModelPoints>
+                              <NPointF X="0.99999994" Y="0.49999997" />
+                              <NPointF X="0.99999994" Y="0.7761423" />
+                              <NPointF X="0.776142359" Y="0.9999999" />
+                              <NPointF X="0.50000006" Y="0.99999994" />
+                              <NPointF X="-0.499999821" Y="0.99999994" />
+                              <NPointF X="-0.7761422" Y="1" />
+                              <NPointF X="-0.9999999" Y="0.776142538" />
+                              <NPointF X="-1" Y="0.5000002" />
+                              <NPointF X="-1.00000012" Y="-0.4999997" />
+                              <NPointF X="-1.00000024" Y="-0.776142" />
+                              <NPointF X="-0.776142836" Y="-0.999999762" />
+                              <NPointF X="-0.500000536" Y="-1.00000012" />
+                              <NPointF X="0.499999166" Y="-1" />
+                              <NPointF X="0.7761415" Y="-1.00000048" />
+                              <NPointF X="0.9999995" Y="-0.7761432" />
+                              <NPointF X="0.99999994" Y="-0.5000002" />
+                              <NPointF X="0.99999994" Y="-0.50000006" />
+                              <NPointF X="0.99999994" Y="-0.49999997" />
+                              <NPointF X="0.99999994" Y="-0.499999881" />
+                            </ModelPoints>
+                            <ModelPointsTypes>
+                              <unsignedByte>0</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>1</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>3</unsignedByte>
+                              <unsignedByte>131</unsignedByte>
+                            </ModelPointsTypes>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="88" DefaultLabelUniqueId="0ff86c2f-5c83-4b58-b735-af701c99edbd">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="0ff86c2f-5c83-4b58-b735-af701c99edbd" Id="89" Text="1.  В прозореца за търсене въвеждаме продуктът">
+                            <Margins>
+                              <All xmlns="Nevron.Diagram">0</All>
+                              <Left xmlns="Nevron.Diagram">4</Left>
+                              <Right xmlns="Nevron.Diagram">4</Right>
+                              <Top xmlns="Nevron.Diagram">0</Top>
+                              <Bottom xmlns="Nevron.Diagram">0</Bottom>
+                            </Margins>
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="00000000-0000-0000-0000-000000000000" Id="90" DefaultInwardPortUniqueId="b46db070-6d8a-470f-bdfe-b740d719ca25" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="b46db070-6d8a-470f-bdfe-b740d719ca25" Id="91" AnchorUniqueId="433bcc9e-b1e9-4226-9f0d-c74c6f53d14e" CustomDirectionAngle="0" />
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="00000000-0000-0000-0000-000000000000" Id="92" AnchorUniqueId="433bcc9e-b1e9-4226-9f0d-c74c6f53d14e" CustomDirectionAngle="0">
+                            <Alignment PercentY="-50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="00000000-0000-0000-0000-000000000000" Id="93" AnchorUniqueId="433bcc9e-b1e9-4226-9f0d-c74c6f53d14e" CustomDirectionAngle="0">
+                            <Alignment PercentX="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="1a420c8f-7507-4550-8bc8-e94d833fc4f1" Id="94" AnchorUniqueId="433bcc9e-b1e9-4226-9f0d-c74c6f53d14e" CustomDirectionAngle="0">
+                            <Alignment PercentY="50" />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="00000000-0000-0000-0000-000000000000" Id="95" AnchorUniqueId="433bcc9e-b1e9-4226-9f0d-c74c6f53d14e" CustomDirectionAngle="0">
+                            <Alignment PercentX="-50" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="2" Height="2" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NStep2Connector" Name="Step2Connector_2" UniqueId="00000000-0000-0000-0000-000000000000" Id="96" StyleSheetName="Connectors" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="291.285736" Y="130.453125" Width="280.714264" Height="57" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NHVPolylinePath" Name="HVPolylinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="97" CornerRounding="0">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="291.285736" Y="130.453125" Width="280.714264" Height="57" />
+                        <ModelPoints>
+                          <NPointF X="291.285736" Y="130.453125" />
+                          <NPointF X="572" Y="130.453125" />
+                          <NPointF X="572" Y="187.453125" />
+                        </ModelPoints>
+                        <SegmentTypes>
+                          <HVSegmentType>Horizontal</HVSegmentType>
+                          <HVSegmentType>Vertical</HVSegmentType>
+                        </SegmentTypes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="98" DefaultLabelUniqueId="1d2e0bfe-ad44-485f-afba-0731a0e2156f">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="1d2e0bfe-ad44-485f-afba-0731a0e2156f" Id="99" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="100">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="577d15c4-7cb7-4541-8fee-c4c0ad0a9384" Id="101" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="40ad8cf5-2bba-4bc1-94bf-a2f8ea9e916a" Id="102" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="280.714264" Height="57" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NTextShape" Name="TextShape_3" UniqueId="00000000-0000-0000-0000-000000000000" Id="103" Collapsed="false">
+                    <Style>
+                      <TextStyle>
+                        <FontStyle>
+                          <EmSize Value="9" MeasurementUnit="GDI,Point" />
+                        </FontStyle>
+                        <StringFormatStyle HorzAlign="Left" />
+                        <BackplaneStyle Visible="false">
+                          <Padding>
+                            <Left Value="1" MeasurementUnit="GDI,Point" />
+                            <Top Value="0.5" MeasurementUnit="GDI,Point" />
+                            <Right Value="1" MeasurementUnit="GDI,Point" />
+                            <Bottom Value="0.5" MeasurementUnit="GDI,Point" />
+                          </Padding>
+                          <Inflate>
+                            <Width Value="1" MeasurementUnit="GDI,Point" />
+                            <Height Value="0.5" MeasurementUnit="GDI,Point" />
+                          </Inflate>
+                          <StandardFrameStyle OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+                            <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                            <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                            <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+                            <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                          </StandardFrameStyle>
+                          <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                          <ShadowStyle Color="0,2097152000">
+                            <Offset>
+                              <X Value="1" MeasurementUnit="GDI,Point" />
+                              <Y Value="1" MeasurementUnit="GDI,Point" />
+                            </Offset>
+                            <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                          </ShadowStyle>
+                        </BackplaneStyle>
+                        <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                        <BorderStyle Color="0,4278190080" LineJoin="MiterClipped">
+                          <Width MeasurementUnit="GDI,Point" />
+                        </BorderStyle>
+                        <ShadowStyle Color="0,2097152000">
+                          <Offset>
+                            <X Value="1" MeasurementUnit="GDI,Point" />
+                            <Y Value="1" MeasurementUnit="GDI,Point" />
+                          </Offset>
+                          <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                        </ShadowStyle>
+                        <Offset>
+                          <X MeasurementUnit="GDI,Point" />
+                          <Y MeasurementUnit="GDI,Point" />
+                        </Offset>
+                      </TextStyle>
+                    </Style>
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="328" Y="109.546875" Width="203.540955" Height="14.90625" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NTextPrimitive" Name="TextPrimitive" UniqueId="00000000-0000-0000-0000-000000000000" Id="104" Text="[1.b  Чрез търсене в базата данни]">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="328" Y="109.546875" Width="203.54097" Height="14.9062471" />
+                        <ModelRectangle X="328" Y="109.546875" Width="203.54097" Height="14.9062471" />
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="203.540955" Height="14.90625" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NLineShape" Name="LineShape_5" UniqueId="00000000-0000-0000-0000-000000000000" Id="105" StyleSheetName="Connectors" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="470.8658" Y="435" Width="0.190094" Height="30.013855" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NLinePath" Name="LinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="106">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="470.8658" Y="435" Width="0.190094" Height="30.013855" />
+                        <ModelPoints>
+                          <NPointF X="470.8658" Y="435" />
+                          <NPointF X="471.0559" Y="465.013855" />
+                        </ModelPoints>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="107" DefaultLabelUniqueId="83f76230-d9e2-4a6f-9a06-e6af6e0c8466">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="83f76230-d9e2-4a6f-9a06-e6af6e0c8466" Id="108" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="109">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="36ee8493-ce90-494e-b68c-a7b2d9b80b97" Id="110" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="071377da-f866-499e-9740-536ccf13efe1" Id="111" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="0.190094" Height="30.013855" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NGroup" Name="Group" UniqueId="00000000-0000-0000-0000-000000000000" Id="112" AutoUpdateModelBounds="true" Collapsed="false">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="341.666656" DY="40.6464844" />
+                    <ModelBounds X="25.0000057" Y="331.457031" Width="208" Height="127.896484" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NShapeCollection" Name="Shapes" UniqueId="00000000-0000-0000-0000-000000000000" Id="113">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NCompositeShape" Name="Rounded Rectangle" UniqueId="bb455a68-4ab8-4467-86aa-3e321fb1b885" Id="114" Collapsed="false">
+                            <Style />
+                            <Transform M11="104" M12="0" M21="0" M22="31.4482384" DX="129.000031" DY="362.905273" />
+                            <ModelBounds X="-1.00000024" Y="-1.00000024" Width="2" Height="2" />
+                            <Nodes>
+                              <NDiagramElement xsi:type="NPrimitiveModelCollection" Name="Primitives" UniqueId="645a315e-de29-40cd-90d7-36b1e77dac32" Id="115">
+                                <Nodes>
+                                  <NDiagramElement xsi:type="NCustomPath" Name="CustomPath" UniqueId="5c9db247-4fbc-41f9-8354-47d0ddd5ad87" Id="116" PathType="ClosedFigure">
+                                    <Transform M11="1" M12="0" M21="0" M22="0.999999762" DX="0" DY="-5.684342E-14" />
+                                    <ModelBounds X="-1.00000024" Y="-1.00000048" Width="2" Height="2.00000048" />
+                                    <ModelPoints>
+                                      <NPointF X="0.99999994" Y="0.49999997" />
+                                      <NPointF X="0.99999994" Y="0.7761423" />
+                                      <NPointF X="0.776142359" Y="0.9999999" />
+                                      <NPointF X="0.50000006" Y="0.99999994" />
+                                      <NPointF X="-0.499999821" Y="0.99999994" />
+                                      <NPointF X="-0.7761422" Y="1" />
+                                      <NPointF X="-0.9999999" Y="0.776142538" />
+                                      <NPointF X="-1" Y="0.5000002" />
+                                      <NPointF X="-1.00000012" Y="-0.4999997" />
+                                      <NPointF X="-1.00000024" Y="-0.776142" />
+                                      <NPointF X="-0.776142836" Y="-0.999999762" />
+                                      <NPointF X="-0.500000536" Y="-1.00000012" />
+                                      <NPointF X="0.499999166" Y="-1" />
+                                      <NPointF X="0.7761415" Y="-1.00000048" />
+                                      <NPointF X="0.9999995" Y="-0.7761432" />
+                                      <NPointF X="0.99999994" Y="-0.5000002" />
+                                      <NPointF X="0.99999994" Y="-0.50000006" />
+                                      <NPointF X="0.99999994" Y="-0.49999997" />
+                                      <NPointF X="0.99999994" Y="-0.499999881" />
+                                    </ModelPoints>
+                                    <ModelPointsTypes>
+                                      <unsignedByte>0</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>1</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>1</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>1</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>3</unsignedByte>
+                                      <unsignedByte>131</unsignedByte>
+                                    </ModelPointsTypes>
+                                  </NDiagramElement>
+                                </Nodes>
+                              </NDiagramElement>
+                              <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="766965f9-b008-438e-a5c9-ae1c277032f4" Id="117" DefaultLabelUniqueId="62b21cda-0447-4107-88b2-c91b405b7cf0">
+                                <Nodes>
+                                  <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="62b21cda-0447-4107-88b2-c91b405b7cf0" Id="118" Text="2.  Показва се прозорец с избрания артикул и информация за него">
+                                    <Margins>
+                                      <All xmlns="Nevron.Diagram">0</All>
+                                      <Left xmlns="Nevron.Diagram">4</Left>
+                                      <Right xmlns="Nevron.Diagram">4</Right>
+                                      <Top xmlns="Nevron.Diagram">0</Top>
+                                      <Bottom xmlns="Nevron.Diagram">0</Bottom>
+                                    </Margins>
+                                  </NDiagramElement>
+                                </Nodes>
+                              </NDiagramElement>
+                              <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="e4adeb9c-a174-4e70-807a-0d492e0e3fda" Id="119" DefaultInwardPortUniqueId="8202df2f-dc98-4d14-b577-ed0c9794cc48" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                                <Nodes>
+                                  <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="8202df2f-dc98-4d14-b577-ed0c9794cc48" Id="120" AnchorUniqueId="bb455a68-4ab8-4467-86aa-3e321fb1b885" CustomDirectionAngle="0" />
+                                  <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="87685a21-d20b-4190-8df5-0b70713ff50a" Id="121" AnchorUniqueId="bb455a68-4ab8-4467-86aa-3e321fb1b885" CustomDirectionAngle="0">
+                                    <Alignment PercentY="-50" />
+                                  </NDiagramElement>
+                                  <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="d3b0dfb6-22d5-482c-9f60-ee6cfdcc4fa8" Id="122" AnchorUniqueId="bb455a68-4ab8-4467-86aa-3e321fb1b885" CustomDirectionAngle="0">
+                                    <Alignment PercentX="50" />
+                                  </NDiagramElement>
+                                  <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="877106f5-52b5-48ab-acba-cac0a1bbc210" Id="123" AnchorUniqueId="bb455a68-4ab8-4467-86aa-3e321fb1b885" CustomDirectionAngle="0">
+                                    <Alignment PercentY="50" />
+                                  </NDiagramElement>
+                                  <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="bb31ccdf-5198-477d-891b-a25c7577d3bc" Id="124" AnchorUniqueId="bb455a68-4ab8-4467-86aa-3e321fb1b885" CustomDirectionAngle="0">
+                                    <Alignment PercentX="-50" />
+                                  </NDiagramElement>
+                                </Nodes>
+                              </NDiagramElement>
+                            </Nodes>
+                            <CollapsedSize Width="100" Height="20" />
+                            <ExpandedSize Width="2" Height="2" />
+                            <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                            <LayoutData />
+                          </NDiagramElement>
+                          <NDiagramElement xsi:type="NGroup" Name="Group" UniqueId="780ff64b-1d51-47ba-bd38-854c3847fffd" Id="125" Collapsed="false">
+                            <Style />
+                            <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                            <ModelBounds X="112" Y="424.353516" Width="35" Height="35" />
+                            <Nodes>
+                              <NDiagramElement xsi:type="NShapeCollection" Name="Shapes" UniqueId="505d7b1d-9aff-438f-a6a2-5146c1c6b8a1" Id="126">
+                                <Nodes>
+                                  <NDiagramElement xsi:type="NEllipseShape" Name="Circle" UniqueId="4b665ed8-05f3-42f4-ad57-32e38b9ac3ec" Id="127" Collapsed="false">
+                                    <Protection Mask="512" />
+                                    <Style>
+                                      <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                                    </Style>
+                                    <Transform M11="12.5" M12="0" M21="0" M22="12.5" DX="129.5" DY="441.853516" />
+                                    <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                                    <Nodes>
+                                      <NDiagramElement xsi:type="NEllipsePath" Name="EllipsePath" UniqueId="5c0d62ac-a691-49fa-a6f9-e99f806e4fa9" Id="128" ModelXRadius="1" ModelYRadius="1" ModelAngle="0">
+                                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                                        <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                                        <ModelCenter X="0" Y="0" />
+                                      </NDiagramElement>
+                                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="5fd12e5c-d488-4d68-8dc5-6a0858e58736" Id="129" DefaultLabelUniqueId="1060f3cf-e141-4994-932c-c8d6c1768470">
+                                        <Nodes>
+                                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="1060f3cf-e141-4994-932c-c8d6c1768470" Id="130" />
+                                        </Nodes>
+                                      </NDiagramElement>
+                                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="7c673902-58ea-42f1-b9ad-f93680ab7d46" Id="131" DefaultInwardPortUniqueId="fc86bd7e-ca63-4306-b391-2c70dcc6329b" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                                        <Nodes>
+                                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="fc86bd7e-ca63-4306-b391-2c70dcc6329b" Id="132" AnchorUniqueId="4b665ed8-05f3-42f4-ad57-32e38b9ac3ec" CustomDirectionAngle="0" />
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="83c2e335-4176-441f-b160-48e5451373e9" Id="133" AnchorUniqueId="4b665ed8-05f3-42f4-ad57-32e38b9ac3ec" CustomDirectionAngle="0">
+                                            <Alignment PercentY="-50" />
+                                          </NDiagramElement>
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="19a85d97-f8df-4d5c-b93e-0085e588890a" Id="134" AnchorUniqueId="4b665ed8-05f3-42f4-ad57-32e38b9ac3ec" CustomDirectionAngle="0">
+                                            <Alignment PercentX="50" />
+                                          </NDiagramElement>
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="e4472396-ecfb-4fd6-bdd3-5bc822eb0c94" Id="135" AnchorUniqueId="4b665ed8-05f3-42f4-ad57-32e38b9ac3ec" CustomDirectionAngle="0">
+                                            <Alignment PercentY="50" />
+                                          </NDiagramElement>
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="966e3b39-c70c-4a58-bd69-72fca96b98fa" Id="136" AnchorUniqueId="4b665ed8-05f3-42f4-ad57-32e38b9ac3ec" CustomDirectionAngle="0">
+                                            <Alignment PercentX="-50" />
+                                          </NDiagramElement>
+                                        </Nodes>
+                                      </NDiagramElement>
+                                    </Nodes>
+                                    <CollapsedSize Width="100" Height="20" />
+                                    <ExpandedSize Width="2" Height="2" />
+                                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                                    <LayoutData />
+                                  </NDiagramElement>
+                                  <NDiagramElement xsi:type="NEllipseShape" Name="Circle" UniqueId="d2d5c345-cc1e-494b-bedf-f931582ff6ec" Id="137" Collapsed="false">
+                                    <Protection Mask="512" />
+                                    <Style>
+                                      <FillStyle xsi:type="NColorFillStyle" Color="0,16777215" />
+                                    </Style>
+                                    <Transform M11="17.5" M12="0" M21="0" M22="17.5" DX="129.5" DY="441.853516" />
+                                    <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                                    <Nodes>
+                                      <NDiagramElement xsi:type="NEllipsePath" Name="EllipsePath" UniqueId="5fe802bb-1350-403a-a9f9-929abe0946f7" Id="138" ModelXRadius="1" ModelYRadius="1" ModelAngle="0">
+                                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                                        <ModelBounds X="-1" Y="-1" Width="2" Height="2" />
+                                        <ModelCenter X="0" Y="0" />
+                                      </NDiagramElement>
+                                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="1949bac4-e808-4dda-bd6d-271f91104946" Id="139" DefaultLabelUniqueId="7ea3415a-1ce5-4285-a5e4-58f96cc05e72">
+                                        <Nodes>
+                                          <NDiagramElement xsi:type="NRotatedBoundsLabel" Name="RotatedBoundsLabel" UniqueId="7ea3415a-1ce5-4285-a5e4-58f96cc05e72" Id="140" />
+                                        </Nodes>
+                                      </NDiagramElement>
+                                      <NDiagramElement xsi:type="NPortCollection" Name="Ports" UniqueId="fe30dedd-2b96-42ec-b0ca-c178fd234d5d" Id="141" DefaultInwardPortUniqueId="a0b82353-3823-42cc-af21-f65fbb3db422" DefaultOutwardPortUniqueId="00000000-0000-0000-0000-000000000000">
+                                        <Nodes>
+                                          <NDiagramElement xsi:type="NDynamicPort" Name="Center" UniqueId="a0b82353-3823-42cc-af21-f65fbb3db422" Id="142" AnchorUniqueId="d2d5c345-cc1e-494b-bedf-f931582ff6ec" CustomDirectionAngle="0" />
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Top" UniqueId="285df61e-72aa-41e0-8fc6-e717db2f2596" Id="143" AnchorUniqueId="d2d5c345-cc1e-494b-bedf-f931582ff6ec" CustomDirectionAngle="0">
+                                            <Alignment PercentY="-50" />
+                                          </NDiagramElement>
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Right" UniqueId="230bb97f-a1fb-42d5-8825-7836fec654a7" Id="144" AnchorUniqueId="d2d5c345-cc1e-494b-bedf-f931582ff6ec" CustomDirectionAngle="0">
+                                            <Alignment PercentX="50" />
+                                          </NDiagramElement>
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Bottom" UniqueId="4d4ef363-e186-4546-b5da-19c3f5e190a8" Id="145" AnchorUniqueId="d2d5c345-cc1e-494b-bedf-f931582ff6ec" CustomDirectionAngle="0">
+                                            <Alignment PercentY="50" />
+                                          </NDiagramElement>
+                                          <NDiagramElement xsi:type="NRotatedBoundsPort" Name="Left" UniqueId="1d800cdb-aa1c-4baa-96d0-f1cda17c461e" Id="146" AnchorUniqueId="d2d5c345-cc1e-494b-bedf-f931582ff6ec" CustomDirectionAngle="0">
+                                            <Alignment PercentX="-50" />
+                                          </NDiagramElement>
+                                        </Nodes>
+                                      </NDiagramElement>
+                                    </Nodes>
+                                    <CollapsedSize Width="100" Height="20" />
+                                    <ExpandedSize Width="2" Height="2" />
+                                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                                    <LayoutData />
+                                  </NDiagramElement>
+                                </Nodes>
+                              </NDiagramElement>
+                            </Nodes>
+                            <CollapsedSize Width="100" Height="20" />
+                            <ExpandedSize Width="35" Height="35" />
+                            <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                            <LayoutData />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="208" Height="127.896484" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NStep2Connector" Name="Step2Connector" UniqueId="00000000-0000-0000-0000-000000000000" Id="147" StyleSheetName="Connectors" Collapsed="false" FirstVertical="true">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="354" Y="301.457031" Width="12.6666565" Height="102.094727" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NHVPolylinePath" Name="HVPolylinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="148" CornerRounding="0">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="354" Y="301.457031" Width="12.6666565" Height="102.094727" />
+                        <ModelPoints>
+                          <NPointF X="354" Y="301.457031" />
+                          <NPointF X="354" Y="403.551758" />
+                          <NPointF X="366.666656" Y="403.551758" />
+                        </ModelPoints>
+                        <SegmentTypes>
+                          <HVSegmentType>Vertical</HVSegmentType>
+                          <HVSegmentType>Horizontal</HVSegmentType>
+                        </SegmentTypes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="149" DefaultLabelUniqueId="a57d05dc-2486-4559-8072-f1298e7fbfab">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="a57d05dc-2486-4559-8072-f1298e7fbfab" Id="150" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="151">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="4825cf9e-34b1-4f9b-aa22-68b72dae285f" Id="152" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="63886319-4550-4954-80cd-de237cbfed33" Id="153" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="12.6666565" Height="102.094727" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                  <NDiagramElement xsi:type="NStep3Connector" Name="Step3Connector" UniqueId="00000000-0000-0000-0000-000000000000" Id="154" StyleSheetName="Connectors" Collapsed="false" FirstVertical="true" MiddleControlPointPercent="76.31659">
+                    <Style />
+                    <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                    <ModelBounds X="470.666656" Y="236.550766" Width="101.333344" Height="135.55275" />
+                    <Nodes>
+                      <NDiagramElement xsi:type="NHVPolylinePath" Name="HVPolylinePath" UniqueId="00000000-0000-0000-0000-000000000000" Id="155" CornerRounding="0">
+                        <Transform M11="1" M12="0" M21="0" M22="1" DX="0" DY="0" />
+                        <ModelBounds X="470.666656" Y="236.550766" Width="101.333344" Height="135.55275" />
+                        <ModelPoints>
+                          <NPointF X="572" Y="236.550766" />
+                          <NPointF X="572" Y="340" />
+                          <NPointF X="470.666656" Y="340" />
+                          <NPointF X="470.666656" Y="372.103516" />
+                        </ModelPoints>
+                        <SegmentTypes>
+                          <HVSegmentType>Vertical</HVSegmentType>
+                          <HVSegmentType>Horizontal</HVSegmentType>
+                          <HVSegmentType>Vertical</HVSegmentType>
+                        </SegmentTypes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NLabelCollection" Name="Labels" UniqueId="00000000-0000-0000-0000-000000000000" Id="156" DefaultLabelUniqueId="424c5147-e40b-4077-a942-3a02f2bd4df1">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NLogicalLineLabel" Name="LogicalLineLabel" UniqueId="424c5147-e40b-4077-a942-3a02f2bd4df1" Id="157" UseLineOrientation="true" />
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NControlPointCollection" Name="Control Points" UniqueId="00000000-0000-0000-0000-000000000000" Id="158">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NControlPoint" Name="ControlPoint" UniqueId="00000000-0000-0000-0000-000000000000" Id="159" Tooltip="Reposition Bend">
+                            <ModelLocation X="521.3333" Y="340" />
+                          </NDiagramElement>
+                        </Nodes>
+                      </NDiagramElement>
+                      <NDiagramElement xsi:type="NPlugContainer" Name="Plugs" UniqueId="00000000-0000-0000-0000-000000000000" Id="160">
+                        <Nodes>
+                          <NDiagramElement xsi:type="NStartPlug" Name="StartPlug" UniqueId="5cdeef3c-3fe8-4d04-901f-a189b54a0852" Id="161" />
+                          <NDiagramElement xsi:type="NEndPlug" Name="EndPlug" UniqueId="4ed11b52-e9c4-4a97-bb90-5b2786945d47" Id="162" />
+                        </Nodes>
+                      </NDiagramElement>
+                    </Nodes>
+                    <CollapsedSize Width="100" Height="20" />
+                    <ExpandedSize Width="101.333344" Height="135.55275" />
+                    <ExpandCollapsePinAlignment PercentX="-50" PercentY="-50" />
+                    <LayoutData />
+                  </NDiagramElement>
+                </Nodes>
+              </NDiagramElement>
+            </Nodes>
+          </NDiagramElement>
+          <NDiagramElement xsi:type="NGuidelineCollection" Name="Guidelines" UniqueId="00000000-0000-0000-0000-000000000000" Id="163">
+            <Nodes />
+          </NDiagramElement>
+          <NDiagramElement xsi:type="NStyleSheetCollection" Name="Style Sheets" UniqueId="00000000-0000-0000-0000-000000000000" Id="164">
+            <Nodes>
+              <NDiagramElement xsi:type="NStyleSheet" Name="Guidelines" UniqueId="00000000-0000-0000-0000-000000000000" Id="165">
+                <Style>
+                  <StrokeStyle Color="0,4287245282">
+                    <Width Value="1" MeasurementUnit="GDI,Point" />
+                  </StrokeStyle>
+                </Style>
+              </NDiagramElement>
+              <NDiagramElement xsi:type="NStyleSheet" Name="Connectors" UniqueId="00000000-0000-0000-0000-000000000000" Id="166">
+                <Style>
+                  <StrokeStyle Color="0,4278190080">
+                    <Width Value="1" MeasurementUnit="GDI,Point" />
+                  </StrokeStyle>
+                  <TextStyle>
+                    <FontStyle>
+                      <EmSize Value="9" MeasurementUnit="GDI,Point" />
+                    </FontStyle>
+                    <StringFormatStyle />
+                    <BackplaneStyle Visible="false">
+                      <Padding>
+                        <Left Value="1" MeasurementUnit="GDI,Point" />
+                        <Top Value="0.5" MeasurementUnit="GDI,Point" />
+                        <Right Value="1" MeasurementUnit="GDI,Point" />
+                        <Bottom Value="0.5" MeasurementUnit="GDI,Point" />
+                      </Padding>
+                      <Inflate>
+                        <Width Value="1" MeasurementUnit="GDI,Point" />
+                        <Height Value="0.5" MeasurementUnit="GDI,Point" />
+                      </Inflate>
+                      <StandardFrameStyle OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+                        <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                        <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                        <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+                        <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                      </StandardFrameStyle>
+                      <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                      <ShadowStyle Color="0,2097152000">
+                        <Offset>
+                          <X Value="1" MeasurementUnit="GDI,Point" />
+                          <Y Value="1" MeasurementUnit="GDI,Point" />
+                        </Offset>
+                        <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                      </ShadowStyle>
+                    </BackplaneStyle>
+                    <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                    <BorderStyle Color="0,4278190080" LineJoin="MiterClipped">
+                      <Width MeasurementUnit="GDI,Point" />
+                    </BorderStyle>
+                    <ShadowStyle Color="0,2097152000">
+                      <Offset>
+                        <X Value="1" MeasurementUnit="GDI,Point" />
+                        <Y Value="1" MeasurementUnit="GDI,Point" />
+                      </Offset>
+                      <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                    </ShadowStyle>
+                    <Offset>
+                      <X MeasurementUnit="GDI,Point" />
+                      <Y Value="-10" MeasurementUnit="GDI,Point" />
+                    </Offset>
+                  </TextStyle>
+                  <BridgeStyle Shape="Arc">
+                    <Size>
+                      <Width Value="5" MeasurementUnit="GDI,Point" />
+                      <Height Value="5" MeasurementUnit="GDI,Point" />
+                    </Size>
+                  </BridgeStyle>
+                  <StartArrowheadStyle>
+                    <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                    <StrokeStyle Color="0,4278190080">
+                      <Width Value="1" MeasurementUnit="GDI,Point" />
+                    </StrokeStyle>
+                    <Size>
+                      <Width Value="6" MeasurementUnit="GDI,Point" />
+                      <Height Value="6" MeasurementUnit="GDI,Point" />
+                    </Size>
+                  </StartArrowheadStyle>
+                  <EndArrowheadStyle Shape="OpenedArrow">
+                    <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                    <StrokeStyle Color="0,4278190080">
+                      <Width Value="1" MeasurementUnit="GDI,Point" />
+                    </StrokeStyle>
+                    <Size>
+                      <Width Value="6" MeasurementUnit="GDI,Point" />
+                      <Height Value="6" MeasurementUnit="GDI,Point" />
+                    </Size>
+                  </EndArrowheadStyle>
+                </Style>
+              </NDiagramElement>
+              <NDiagramElement xsi:type="NStyleSheet" Name="FrameDecoratorBackgrounds" UniqueId="00000000-0000-0000-0000-000000000000" Id="167">
+                <Style>
+                  <StrokeStyle Color="0,4278190080">
+                    <Width Value="1" MeasurementUnit="GDI,Point" />
+                  </StrokeStyle>
+                  <FillStyle xsi:type="NColorFillStyle" Color="0,2111034323" />
+                </Style>
+              </NDiagramElement>
+              <NDiagramElement xsi:type="NStyleSheet" Name="FrameDecoratorHeaders" UniqueId="00000000-0000-0000-0000-000000000000" Id="168">
+                <Style>
+                  <StrokeStyle Color="0,4278190080">
+                    <Width Value="1" MeasurementUnit="GDI,Point" />
+                  </StrokeStyle>
+                  <FillStyle xsi:type="NColorFillStyle" Color="0,4289583334" />
+                  <TextStyle>
+                    <FontStyle>
+                      <EmSize Value="9" MeasurementUnit="GDI,Point" />
+                    </FontStyle>
+                    <StringFormatStyle />
+                    <BackplaneStyle Visible="false">
+                      <Padding>
+                        <Left Value="1" MeasurementUnit="GDI,Point" />
+                        <Top Value="0.5" MeasurementUnit="GDI,Point" />
+                        <Right Value="1" MeasurementUnit="GDI,Point" />
+                        <Bottom Value="0.5" MeasurementUnit="GDI,Point" />
+                      </Padding>
+                      <Inflate>
+                        <Width Value="1" MeasurementUnit="GDI,Point" />
+                        <Height Value="0.5" MeasurementUnit="GDI,Point" />
+                      </Inflate>
+                      <StandardFrameStyle OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+                        <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                        <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                        <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+                        <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                      </StandardFrameStyle>
+                      <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                      <ShadowStyle Color="0,2097152000">
+                        <Offset>
+                          <X Value="1" MeasurementUnit="GDI,Point" />
+                          <Y Value="1" MeasurementUnit="GDI,Point" />
+                        </Offset>
+                        <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                      </ShadowStyle>
+                    </BackplaneStyle>
+                    <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+                    <BorderStyle Color="0,4278190080" LineJoin="MiterClipped">
+                      <Width MeasurementUnit="GDI,Point" />
+                    </BorderStyle>
+                    <ShadowStyle Color="0,2097152000">
+                      <Offset>
+                        <X Value="1" MeasurementUnit="GDI,Point" />
+                        <Y Value="1" MeasurementUnit="GDI,Point" />
+                      </Offset>
+                      <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+                    </ShadowStyle>
+                    <Offset>
+                      <X MeasurementUnit="GDI,Point" />
+                      <Y MeasurementUnit="GDI,Point" />
+                    </Offset>
+                  </TextStyle>
+                </Style>
+              </NDiagramElement>
+              <NDiagramElement xsi:type="NStyleSheet" Name="ToggleDecoratorBackgrounds" UniqueId="00000000-0000-0000-0000-000000000000" Id="169">
+                <Style>
+                  <StrokeStyle Color="0,4278190080">
+                    <Width Value="1" MeasurementUnit="GDI,Point" />
+                  </StrokeStyle>
+                  <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+                </Style>
+              </NDiagramElement>
+              <NDiagramElement xsi:type="NStyleSheet" Name="ToggleDecoratorSymbols" UniqueId="00000000-0000-0000-0000-000000000000" Id="170">
+                <Style>
+                  <StrokeStyle Color="0,4278190080">
+                    <Width Value="1" MeasurementUnit="GDI,Point" />
+                  </StrokeStyle>
+                  <FillStyle xsi:type="NColorFillStyle" Color="0,4289309097" />
+                </Style>
+              </NDiagramElement>
+            </Nodes>
+          </NDiagramElement>
+          <NDiagramElement xsi:type="NArrowheadShapeStencil" Name="Arrowhead Shapes" UniqueId="00000000-0000-0000-0000-000000000000" Id="171">
+            <Nodes />
+          </NDiagramElement>
+          <NDiagramElement xsi:type="NPointShapeStencil" Name="Point Shapes" UniqueId="00000000-0000-0000-0000-000000000000" Id="172">
+            <Nodes />
+          </NDiagramElement>
+        </Nodes>
+        <DataObjectAdaptors>
+          <NDataObjectAdaptor xsi:type="NDrawingDataObjectAdaptor" />
+        </DataObjectAdaptors>
+        <Style>
+          <StrokeStyle Color="0,4278190080">
+            <Width Value="1" MeasurementUnit="GDI,Point" />
+          </StrokeStyle>
+          <ShadowStyle Color="0,2097152000">
+            <Offset>
+              <X Value="1" MeasurementUnit="GDI,Point" />
+              <Y Value="1" MeasurementUnit="GDI,Point" />
+            </Offset>
+            <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+          </ShadowStyle>
+          <FillStyle xsi:type="NGradientFillStyle" BeginColor="0,4293129471" EndColor="0,4284461055" Style="DiagonalUp" Variant="Variant1">
+            <TextureMappingStyle BorderColor="0,4294967295" MapLayout="Stretched" MapMode="RelativeToObject" HorizontalScale="1" VerticalScale="1" />
+          </FillStyle>
+          <TextStyle>
+            <FontStyle>
+              <EmSize Value="9" MeasurementUnit="GDI,Point" />
+            </FontStyle>
+            <StringFormatStyle />
+            <BackplaneStyle Visible="false">
+              <Padding>
+                <Left Value="1" MeasurementUnit="GDI,Point" />
+                <Top Value="0.5" MeasurementUnit="GDI,Point" />
+                <Right Value="1" MeasurementUnit="GDI,Point" />
+                <Bottom Value="0.5" MeasurementUnit="GDI,Point" />
+              </Padding>
+              <Inflate>
+                <Width Value="1" MeasurementUnit="GDI,Point" />
+                <Height Value="0.5" MeasurementUnit="GDI,Point" />
+              </Inflate>
+              <StandardFrameStyle OuterBevelLightColor="0,4294967295" OuterBevelDarkColor="0,4288716960" InnerBevelLightColor="0,4293980400" InnerBevelDarkColor="0,4285098345" OuterBorderColor="0,4288716960" InnerBorderColor="0,4278190080">
+                <OuterBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                <InnerBevelWidth Value="1" MeasurementUnit="GDI,Pixel" />
+                <OuterBorderWidth MeasurementUnit="GDI,Pixel" />
+                <InnerBorderWidth Value="1" MeasurementUnit="GDI,Pixel" />
+              </StandardFrameStyle>
+              <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+              <ShadowStyle Color="0,2097152000">
+                <Offset>
+                  <X Value="1" MeasurementUnit="GDI,Point" />
+                  <Y Value="1" MeasurementUnit="GDI,Point" />
+                </Offset>
+                <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+              </ShadowStyle>
+            </BackplaneStyle>
+            <FillStyle xsi:type="NColorFillStyle" Color="0,4278190080" />
+            <BorderStyle Color="0,4278190080" LineJoin="MiterClipped">
+              <Width MeasurementUnit="GDI,Point" />
+            </BorderStyle>
+            <ShadowStyle Color="0,2097152000">
+              <Offset>
+                <X Value="1" MeasurementUnit="GDI,Point" />
+                <Y Value="1" MeasurementUnit="GDI,Point" />
+              </Offset>
+              <FadeLength Value="2" MeasurementUnit="GDI,Point" />
+            </ShadowStyle>
+            <Offset>
+              <X MeasurementUnit="GDI,Point" />
+              <Y MeasurementUnit="GDI,Point" />
+            </Offset>
+          </TextStyle>
+          <BridgeStyle>
+            <Size>
+              <Width MeasurementUnit="GDI,Point" />
+              <Height MeasurementUnit="GDI,Point" />
+            </Size>
+          </BridgeStyle>
+          <StartArrowheadStyle>
+            <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+            <StrokeStyle Color="0,4278190080">
+              <Width Value="1" MeasurementUnit="GDI,Point" />
+            </StrokeStyle>
+            <Size>
+              <Width Value="6" MeasurementUnit="GDI,Point" />
+              <Height Value="6" MeasurementUnit="GDI,Point" />
+            </Size>
+          </StartArrowheadStyle>
+          <EndArrowheadStyle>
+            <FillStyle xsi:type="NColorFillStyle" Color="0,4294967295" />
+            <StrokeStyle Color="0,4278190080">
+              <Width Value="1" MeasurementUnit="GDI,Point" />
+            </StrokeStyle>
+            <Size>
+              <Width Value="6" MeasurementUnit="GDI,Point" />
+              <Height Value="6" MeasurementUnit="GDI,Point" />
+            </Size>
+          </EndArrowheadStyle>
+          <InteractivityStyle>
+            <NCursorAttribute />
+            <NTooltipAttribute>
+              <Text />
+            </NTooltipAttribute>
+          </InteractivityStyle>
+        </Style>
+        <ConnectionContainer>
+          <Connections>
+            <NConnection>
+              <UniqueId1>87685a21-d20b-4190-8df5-0b70713ff50a</UniqueId1>
+              <UniqueId2>4ed11b52-e9c4-4a97-bb90-5b2786945d47</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>071377da-f866-499e-9740-536ccf13efe1</UniqueId1>
+              <UniqueId2>a0b82353-3823-42cc-af21-f65fbb3db422</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>a9113b03-e444-4232-9307-bcb21f314df6</UniqueId1>
+              <UniqueId2>be072b10-aa31-406b-93de-5a9cb93ddeef</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>63886319-4550-4954-80cd-de237cbfed33</UniqueId1>
+              <UniqueId2>8202df2f-dc98-4d14-b577-ed0c9794cc48</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>b46db070-6d8a-470f-bdfe-b740d719ca25</UniqueId1>
+              <UniqueId2>40ad8cf5-2bba-4bc1-94bf-a2f8ea9e916a</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>1a420c8f-7507-4550-8bc8-e94d833fc4f1</UniqueId1>
+              <UniqueId2>5cdeef3c-3fe8-4d04-901f-a189b54a0852</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>be072b10-aa31-406b-93de-5a9cb93ddeef</UniqueId1>
+              <UniqueId2>d2627fb3-afbd-4cda-9bf8-37c7fafed8a6</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>829502fe-48b2-4a6e-bba3-a65ab768c810</UniqueId1>
+              <UniqueId2>6328f2de-294e-4a4d-b516-6fba843acfba</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>70c5fa3e-a741-4a79-92ea-4256a40befa1</UniqueId1>
+              <UniqueId2>8893d179-b2c9-4a02-985e-00fe75dc3707</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>4825cf9e-34b1-4f9b-aa22-68b72dae285f</UniqueId1>
+              <UniqueId2>514b729f-58b3-4fa6-8203-2b059c548be2</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>8202df2f-dc98-4d14-b577-ed0c9794cc48</UniqueId1>
+              <UniqueId2>36ee8493-ce90-494e-b68c-a7b2d9b80b97</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>3248319c-320a-4508-bdde-70b3b2e8b125</UniqueId1>
+              <UniqueId2>6e7ff340-99af-4188-bbd8-2e5388d43dfb</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>936fd3e1-144a-4c92-91a9-b577b6af8927</UniqueId1>
+              <UniqueId2>f7c0170e-57de-4d1e-8f38-33629502ad86</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>2aa0e9dc-7ede-4917-adcc-4cc3ae1d87ba</UniqueId1>
+              <UniqueId2>6e7ff340-99af-4188-bbd8-2e5388d43dfb</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>b56c6683-67a8-4c7c-82bc-8150ee68477c</UniqueId1>
+              <UniqueId2>d36a03e3-1535-40f2-aaa0-fde0ae28ee2a</UniqueId2>
+            </NConnection>
+            <NConnection>
+              <UniqueId1>56fa2a25-935e-4184-9e7f-38921d726142</UniqueId1>
+              <UniqueId2>577d15c4-7cb7-4541-8fee-c4c0ad0a9384</UniqueId2>
+            </NConnection>
+          </Connections>
+        </ConnectionContainer>
+        <RoutingManager ChangeDirectionCost="3" ObstacleInteriorDeflate="1" MergePointDistance="1">
+          <ObstaclePadding>
+            <All xmlns="Nevron.Diagram">0</All>
+            <Left xmlns="Nevron.Diagram">10</Left>
+            <Right xmlns="Nevron.Diagram">10</Right>
+            <Top xmlns="Nevron.Diagram">10</Top>
+            <Bottom xmlns="Nevron.Diagram">10</Bottom>
+          </ObstaclePadding>
+        </RoutingManager>
+        <BridgeManager />
+        <Bounds X="-50" Y="-50" Width="747" Height="1077" />
+        <GraphicsSettings CompositingMode="SourceOver" CompositingQuality="Default" InterpolationMode="Default" PixelOffsetMode="HighQuality" SmoothingMode="AntiAlias" TextContrast="0" TextRenderingHint="SystemDefault">
+          <RenderingOrigin>
+            <X>0</X>
+            <Y>0</Y>
+          </RenderingOrigin>
+        </GraphicsSettings>
+        <Settings MergePointDistance="10" NudgeLeft="1" NudgeRight="1" NudgeTop="1" NudgeBottom="1" HorizontalSpacingStep="10" VerticalSpacingStep="10" RotationStep="90" DragDropEffects="Copy Move" PasteOffsetX="10" PasteOffsetY="10">
+          <PageSettings Color="true" Landscape="false" MarginsLeft="50" MarginsRight="50" MarginsTop="50" MarginsBottom="50" PaperName="A4" PaperKind="A4" PaperWidth="827" PaperHeight="1170" />
+          <DefaultExportBoundsPadding>
+            <All xmlns="Nevron.Diagram">0</All>
+            <Left xmlns="Nevron.Diagram">10</Left>
+            <Right xmlns="Nevron.Diagram">10</Right>
+            <Top xmlns="Nevron.Diagram">10</Top>
+            <Bottom xmlns="Nevron.Diagram">10</Bottom>
+          </DefaultExportBoundsPadding>
+        </Settings>
+        <HitTestSettings />
+        <AutoBoundsPadding>
+          <All xmlns="Nevron.Diagram">0</All>
+          <Left xmlns="Nevron.Diagram">20</Left>
+          <Right xmlns="Nevron.Diagram">20</Right>
+          <Top xmlns="Nevron.Diagram">20</Top>
+          <Bottom xmlns="Nevron.Diagram">20</Bottom>
+        </AutoBoundsPadding>
+        <AutoBoundsMinSize Width="100" Height="100" />
+      </NDrawingDocument>
+      <Name>Drawing</Name>
+    </Section>
+  </Sections>
+</Document>
